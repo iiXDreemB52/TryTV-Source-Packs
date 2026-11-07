@@ -2,195 +2,219 @@
   "schema": 1,
   "canonicalRevision": 2325,
   "canonicalCommit": "2984e107bfc9eaa5aad92e387eb73c86d3a106b2",
-  "generatedAt": "2026-11-07T05:39:38.751Z",
-  "publishedSources": 11,
+  "generatedAt": "2026-11-07T05:45:39.268Z",
+  "publishedSources": 35,
   "changed": 0,
-  "excluded": 24,
+  "excluded": 0,
   "entries": [
     {
       "source": "https://4b.cqi8zqa.shop/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 2376
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
       "status": "unchanged",
-      "revision": 2,
+      "revision": 3,
       "count": 60
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-arabic",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 29
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-masr",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 27
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-series",
       "status": "unchanged",
-      "revision": 2,
+      "revision": 3,
       "count": 23
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-animation",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 696
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-anime",
       "status": "unchanged",
-      "revision": 2,
+      "revision": 3,
       "count": 86
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
       "status": "unchanged",
-      "revision": 2,
+      "revision": 3,
       "count": 66
     },
     {
       "source": "https://fussshaar.rest/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 1270
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 8
     },
     {
       "source": "https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 305
     },
     {
       "source": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 64
     },
     {
       "source": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
       "status": "unchanged",
-      "revision": 2,
+      "revision": 3,
       "count": 129
     },
     {
       "source": "https://k8w4e.sbs/series-category/chinese-anime/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 46
     },
     {
       "source": "https://k8w4e.sbs/series-category/english-series-dubbed/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 66
     },
     {
       "source": "https://k8w4e.sbs/series-category/korean-anime/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 3
     },
     {
       "source": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/turkish-series-dubbed/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 102
     },
     {
       "source": "https://kawaiimanga.org/browse",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 407
     },
     {
       "source": "https://laroza.garden/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 6977
     },
     {
       "source": "https://olympustaff.com/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 1310
     },
     {
       "source": "https://q4.shooflive.sbs/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 1245
     },
     {
       "source": "https://ristoanime.me/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 443
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
       "status": "unchanged",
-      "revision": 1,
+      "revision": 2,
       "count": 167
     },
     {
       "source": "https://sa.t4an.net/newvideos.php",
       "status": "unchanged",
-      "revision": 1,
+      "revision": 2,
       "count": 650
     },
     {
       "source": "https://spacepowerfans.com/anime/",
       "status": "unchanged",
-      "revision": 1,
+      "revision": 2,
       "count": 180
     },
     {
       "source": "https://stardima-ov.anime.com.im/aflam",
       "status": "unchanged",
-      "revision": 1,
+      "revision": 2,
       "count": 1614
     },
     {
       "source": "https://stardima-ov.anime.com.im/mosalsalat",
       "status": "unchanged",
-      "revision": 1,
+      "revision": 2,
       "count": 1604
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 1929
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 1821
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 925
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 4074
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 517
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
-      "status": "excluded",
-      "reason": "incomplete"
+      "status": "unchanged",
+      "revision": 1,
+      "count": 423
     },
     {
       "source": "https://www.dima-toon.com/",
       "status": "unchanged",
-      "revision": 1,
+      "revision": 2,
       "count": 190
     }
   ]
