@@ -2,220 +2,370 @@
   "schema": 1,
   "canonicalRevision": 2325,
   "canonicalCommit": "91afcc96cf564765102339282b40635b83528975",
-  "generatedAt": "2026-11-07T06:13:34.530Z",
+  "generatedAt": "2026-11-07T06:20:38.052Z",
   "publishedSources": 35,
   "changed": 0,
   "excluded": 0,
   "entries": [
     {
       "source": "https://4b.cqi8zqa.shop/",
+      "name": "Anime4up",
+      "kinds": [
+        "anime"
+      ],
+      "count": 2376,
       "status": "unchanged",
-      "revision": 2,
-      "count": 2376
+      "revision": 2
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
+      "name": "أنمي زد - مسلسلات كرتون",
+      "kinds": [
+        "anime"
+      ],
+      "count": 60,
       "status": "unchanged",
-      "revision": 4,
-      "count": 60
+      "revision": 4
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-arabic",
+      "name": "أنمي زد - أفلام ديزني بالفصحى",
+      "kinds": [
+        "movies"
+      ],
+      "count": 29,
       "status": "unchanged",
-      "revision": 2,
-      "count": 29
+      "revision": 2
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-masr",
+      "name": "أنمي زد - أفلام ديزني بالمصري",
+      "kinds": [
+        "movies"
+      ],
+      "count": 27,
       "status": "unchanged",
-      "revision": 2,
-      "count": 27
+      "revision": 2
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-series",
+      "name": "أنمي زد - مسلسلات ديزني",
+      "kinds": [
+        "series"
+      ],
+      "count": 23,
       "status": "unchanged",
-      "revision": 4,
-      "count": 23
+      "revision": 4
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-animation",
+      "name": "أنمي زد - أفلام أنيميشن مدبلجة",
+      "kinds": [
+        "movies"
+      ],
+      "count": 696,
       "status": "unchanged",
-      "revision": 2,
-      "count": 696
+      "revision": 2
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-anime",
+      "name": "أنمي زد - المدبلج",
+      "kinds": [
+        "anime"
+      ],
+      "count": 86,
       "status": "unchanged",
-      "revision": 4,
-      "count": 86
+      "revision": 4
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
+      "name": "أنمي زد - أعمال سبيستون",
+      "kinds": [
+        "anime",
+        "series"
+      ],
+      "count": 66,
       "status": "unchanged",
-      "revision": 4,
-      "count": 66
+      "revision": 4
     },
     {
       "source": "https://fussshaar.rest/",
+      "name": "Fushaar - فشار",
+      "kinds": [
+        "series"
+      ],
+      "count": 1270,
       "status": "unchanged",
-      "revision": 2,
-      "count": 1270
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
+      "name": "ايجي ديد - أفلام أنمي مدبلجة",
+      "kinds": [
+        "movies"
+      ],
+      "count": 8,
       "status": "unchanged",
-      "revision": 2,
-      "count": 8
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/",
+      "name": "ايجي ديد - أفلام أجنبية مدبلجة",
+      "kinds": [
+        "movies"
+      ],
+      "count": 305,
       "status": "unchanged",
-      "revision": 2,
-      "count": 305
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
+      "name": "ايجي ديد - أنمي مدبلج",
+      "kinds": [
+        "anime"
+      ],
+      "count": 64,
       "status": "unchanged",
-      "revision": 2,
-      "count": 64
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
+      "name": "ايجي ديد - رسوم متحركة مدبلجة",
+      "kinds": [
+        "anime"
+      ],
+      "count": 129,
       "status": "unchanged",
-      "revision": 4,
-      "count": 129
+      "revision": 4
     },
     {
       "source": "https://k8w4e.sbs/series-category/chinese-anime/",
+      "name": "ايجي ديد - أنمي صيني",
+      "kinds": [
+        "anime",
+        "series"
+      ],
+      "count": 46,
       "status": "unchanged",
-      "revision": 2,
-      "count": 46
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/english-series-dubbed/",
+      "name": "ايجي ديد - مسلسلات أجنبية مدبلجة",
+      "kinds": [
+        "series"
+      ],
+      "count": 66,
       "status": "unchanged",
-      "revision": 2,
-      "count": 66
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/korean-anime/",
+      "name": "ايجي ديد - أنمي كوري",
+      "kinds": [
+        "anime"
+      ],
+      "count": 3,
       "status": "unchanged",
-      "revision": 2,
-      "count": 3
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
+      "name": "ايجي ديد - مسلسلات لاتينية مدبلجة",
+      "kinds": [
+        "series"
+      ],
+      "count": 2,
       "status": "unchanged",
-      "revision": 2,
-      "count": 2
+      "revision": 2
     },
     {
       "source": "https://k8w4e.sbs/series-category/turkish-series-dubbed/",
+      "name": "ايجي ديد - مسلسلات تركية مدبلجة",
+      "kinds": [
+        "series"
+      ],
+      "count": 102,
       "status": "unchanged",
-      "revision": 2,
-      "count": 102
+      "revision": 2
     },
     {
       "source": "https://kawaiimanga.org/browse",
+      "name": "Kawaiimanga",
+      "kinds": [
+        "manhwa"
+      ],
+      "count": 407,
       "status": "unchanged",
-      "revision": 2,
-      "count": 407
+      "revision": 2
     },
     {
       "source": "https://laroza.garden/",
+      "name": "Larooza",
+      "kinds": [
+        "anime",
+        "movies",
+        "series"
+      ],
+      "count": 6977,
       "status": "unchanged",
-      "revision": 2,
-      "count": 6977
+      "revision": 2
     },
     {
       "source": "https://olympustaff.com/",
+      "name": "تيم اكس",
+      "kinds": [
+        "manhwa"
+      ],
+      "count": 1310,
       "status": "unchanged",
-      "revision": 2,
-      "count": 1310
+      "revision": 2
     },
     {
       "source": "https://q4.shooflive.sbs/",
+      "name": "ShoofLive - شوف لايف",
+      "kinds": [
+        "movies",
+        "series"
+      ],
+      "count": 1245,
       "status": "unchanged",
-      "revision": 2,
-      "count": 1245
+      "revision": 2
     },
     {
       "source": "https://ristoanime.me/",
+      "name": "RistoAnime",
+      "kinds": [
+        "anime"
+      ],
+      "count": 443,
       "status": "unchanged",
-      "revision": 2,
-      "count": 443
+      "revision": 2
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
+      "name": "توب أنمي - مسلسلات الكرتون المدبلجة والمترجمة",
+      "kinds": [
+        "anime"
+      ],
+      "count": 167,
       "status": "unchanged",
-      "revision": 3,
-      "count": 167
+      "revision": 3
     },
     {
       "source": "https://sa.t4an.net/newvideos.php",
+      "name": "توب أنمي - أفلام الكرتون المدبلجة والمترجمة",
+      "kinds": [
+        "movies"
+      ],
+      "count": 650,
       "status": "unchanged",
-      "revision": 3,
-      "count": 650
+      "revision": 3
     },
     {
       "source": "https://spacepowerfans.com/anime/",
+      "name": "سبيس باور فان - الأنمي المدبلج",
+      "kinds": [
+        "anime",
+        "movies",
+        "series"
+      ],
+      "count": 180,
       "status": "unchanged",
-      "revision": 3,
-      "count": 180
+      "revision": 3
     },
     {
       "source": "https://stardima-ov.anime.com.im/aflam",
+      "name": "ستارديما",
+      "kinds": [
+        "movies"
+      ],
+      "count": 1614,
       "status": "unchanged",
-      "revision": 3,
-      "count": 1614
+      "revision": 3
     },
     {
       "source": "https://stardima-ov.anime.com.im/mosalsalat",
+      "name": "ستارديما",
+      "kinds": [
+        "anime",
+        "series"
+      ],
+      "count": 1604,
       "status": "unchanged",
-      "revision": 3,
-      "count": 1604
+      "revision": 3
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
+      "name": "TopCinema – المسلسلات الأجنبية",
+      "kinds": [
+        "series"
+      ],
+      "count": 1929,
       "status": "unchanged",
-      "revision": 2,
-      "count": 1929
+      "revision": 2
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "name": "TopCinema – المسلسلات الآسيوية",
+      "kinds": [
+        "series"
+      ],
+      "count": 1821,
       "status": "unchanged",
-      "revision": 2,
-      "count": 1821
+      "revision": 2
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "name": "Topcinema",
+      "kinds": [
+        "anime",
+        "movies",
+        "series"
+      ],
+      "count": 925,
       "status": "unchanged",
-      "revision": 2,
-      "count": 925
+      "revision": 2
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
+      "name": "TopCinema",
+      "kinds": [
+        "movies"
+      ],
+      "count": 4074,
       "status": "unchanged",
-      "revision": 2,
-      "count": 4074
+      "revision": 2
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
+      "name": "قصة عشق - مسلسلات تركية مدبلجة",
+      "kinds": [
+        "series"
+      ],
+      "count": 517,
       "status": "unchanged",
-      "revision": 2,
-      "count": 517
+      "revision": 2
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
+      "name": "قصة عشق - أفلام تركية مدبلجة ومترجمة",
+      "kinds": [
+        "movies"
+      ],
+      "count": 423,
       "status": "unchanged",
-      "revision": 2,
-      "count": 423
+      "revision": 2
     },
     {
       "source": "https://www.dima-toon.com/",
+      "name": "Dima Toon",
+      "kinds": [
+        "anime"
+      ],
+      "count": 190,
       "status": "unchanged",
-      "revision": 3,
-      "count": 190
+      "revision": 3
     }
   ]
 }
