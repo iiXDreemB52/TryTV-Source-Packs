@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2372,
-  "canonicalCommit": "31942be05971adf2afad994ec776dace58e578ce",
-  "generatedAt": "2026-11-07T21:43:37.628Z",
+  "canonicalRevision": 2375,
+  "canonicalCommit": "1a8147c7f1bc6934b4c90fa8fc9b71c7ba1e799b",
+  "generatedAt": "2026-11-07T22:13:38.028Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 4,
   "excluded": 0,
   "entries": [
     {
@@ -94,9 +94,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1271,
-      "status": "unchanged",
-      "revision": 9
+      "count": 1272,
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 291884
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -208,9 +209,8 @@
         "series"
       ],
       "count": 7085,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 1209513
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +220,8 @@
       ],
       "count": 1311,
       "status": "delta",
-      "revision": 19,
-      "compressedBytes": 334832
+      "revision": 20,
+      "compressedBytes": 334831
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -314,8 +314,9 @@
         "series"
       ],
       "count": 1823,
-      "status": "unchanged",
-      "revision": 6
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 571642
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -335,9 +336,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4077,
-      "status": "unchanged",
-      "revision": 5
+      "count": 4078,
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 1072095
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
