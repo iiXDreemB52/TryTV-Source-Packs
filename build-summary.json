@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2326,
-  "canonicalCommit": "9f502047412793d10df2322e887f8af0f12cb5e6",
-  "generatedAt": "2026-11-07T07:13:36.598Z",
+  "canonicalRevision": 2331,
+  "canonicalCommit": "47128639bf38d74861e43854ec53b95ec14bfa11",
+  "generatedAt": "2026-11-07T08:43:37.359Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 5,
   "excluded": 0,
   "entries": [
     {
@@ -207,9 +207,10 @@
         "movies",
         "series"
       ],
-      "count": 6977,
-      "status": "unchanged",
-      "revision": 2
+      "count": 6989,
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 1200518
     },
     {
       "source": "https://olympustaff.com/",
@@ -218,8 +219,9 @@
         "manhwa"
       ],
       "count": 1310,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 334187
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -229,8 +231,9 @@
         "series"
       ],
       "count": 1245,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 255218
     },
     {
       "source": "https://ristoanime.me/",
@@ -335,8 +338,8 @@
       ],
       "count": 4076,
       "status": "delta",
-      "revision": 3,
-      "compressedBytes": 1071335
+      "revision": 4,
+      "compressedBytes": 1071519
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
@@ -345,8 +348,9 @@
         "series"
       ],
       "count": 517,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 120950
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
