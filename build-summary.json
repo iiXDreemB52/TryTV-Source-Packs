@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2345,
-  "canonicalCommit": "a9fc258d77082b7c4ee212b7f20197f352b231b0",
-  "generatedAt": "2026-11-07T13:43:35.168Z",
+  "canonicalRevision": 2346,
+  "canonicalCommit": "fddd8b59e9f7f414370de7bbbe6e6f766046f072",
+  "generatedAt": "2026-11-07T14:13:35.163Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7037,
-      "status": "delta",
-      "revision": 7,
-      "compressedBytes": 1204921
+      "status": "unchanged",
+      "revision": 7
     },
     {
       "source": "https://olympustaff.com/",
@@ -219,9 +218,8 @@
         "manhwa"
       ],
       "count": 1311,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 334621
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -335,9 +333,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4076,
-      "status": "unchanged",
-      "revision": 4
+      "count": 4077,
+      "status": "delta",
+      "revision": 5,
+      "compressedBytes": 1071774
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
