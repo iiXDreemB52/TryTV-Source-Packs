@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2357,
-  "canonicalCommit": "b27b66320c7f6e271a2fa6f5a799c2f547310a45",
-  "generatedAt": "2026-11-07T17:43:34.841Z",
+  "canonicalRevision": 2358,
+  "canonicalCommit": "b9c58734cd77a9e5a5b250569dbdc887f0fc2ab4",
+  "generatedAt": "2026-11-07T18:13:34.946Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -95,8 +95,9 @@
         "series"
       ],
       "count": 1271,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 291671
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -218,8 +219,9 @@
         "manhwa"
       ],
       "count": 1311,
-      "status": "unchanged",
-      "revision": 14
+      "status": "delta",
+      "revision": 15,
+      "compressedBytes": 334797
     },
     {
       "source": "https://q4.shooflive.sbs/",
