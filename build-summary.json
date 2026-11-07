@@ -2,9 +2,9 @@
   "schema": 1,
   "canonicalRevision": 2325,
   "canonicalCommit": "2984e107bfc9eaa5aad92e387eb73c86d3a106b2",
-  "generatedAt": "2026-11-07T05:36:47.481Z",
+  "generatedAt": "2026-11-07T05:39:38.751Z",
   "publishedSources": 11,
-  "changed": 11,
+  "changed": 0,
   "excluded": 24,
   "entries": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 2,
       "count": 60
     },
@@ -30,7 +30,7 @@
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-series",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 2,
       "count": 23
     },
@@ -41,13 +41,13 @@
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-anime",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 2,
       "count": 86
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 2,
       "count": 66
     },
@@ -73,7 +73,7 @@
     },
     {
       "source": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 2,
       "count": 129
     },
@@ -129,31 +129,31 @@
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 1,
       "count": 167
     },
     {
       "source": "https://sa.t4an.net/newvideos.php",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 1,
       "count": 650
     },
     {
       "source": "https://spacepowerfans.com/anime/",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 1,
       "count": 180
     },
     {
       "source": "https://stardima-ov.anime.com.im/aflam",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 1,
       "count": 1614
     },
     {
       "source": "https://stardima-ov.anime.com.im/mosalsalat",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 1,
       "count": 1604
     },
@@ -189,7 +189,7 @@
     },
     {
       "source": "https://www.dima-toon.com/",
-      "status": "signed-existing",
+      "status": "unchanged",
       "revision": 1,
       "count": 190
     }
