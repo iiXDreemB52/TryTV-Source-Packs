@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2341,
-  "canonicalCommit": "16d41849f9dea1b01618c56f9baeedcbde334c9e",
-  "generatedAt": "2026-11-07T12:13:35.025Z",
+  "canonicalRevision": 2343,
+  "canonicalCommit": "252931668f03ca54fa5036bfc3e1eacb9a5f2e69",
+  "generatedAt": "2026-11-07T12:43:34.779Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7025,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 1203863
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://olympustaff.com/",
@@ -218,10 +217,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1310,
+      "count": 1311,
       "status": "delta",
-      "revision": 8,
-      "compressedBytes": 334289
+      "revision": 9,
+      "compressedBytes": 334601
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -231,8 +230,9 @@
         "series"
       ],
       "count": 1245,
-      "status": "unchanged",
-      "revision": 3
+      "status": "delta",
+      "revision": 4,
+      "compressedBytes": 255218
     },
     {
       "source": "https://ristoanime.me/",
@@ -346,9 +346,8 @@
         "series"
       ],
       "count": 517,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 120994
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
