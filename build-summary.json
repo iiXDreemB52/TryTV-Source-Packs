@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2358,
-  "canonicalCommit": "b9c58734cd77a9e5a5b250569dbdc887f0fc2ab4",
-  "generatedAt": "2026-11-07T18:13:34.946Z",
+  "canonicalRevision": 2361,
+  "canonicalCommit": "a470c7c772cf794b6a4488e7dc16896568e0f9d5",
+  "generatedAt": "2026-11-07T18:43:35.606Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 5,
   "excluded": 0,
   "entries": [
     {
@@ -96,8 +96,8 @@
       ],
       "count": 1271,
       "status": "delta",
-      "revision": 6,
-      "compressedBytes": 291671
+      "revision": 7,
+      "compressedBytes": 291670
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -208,9 +208,10 @@
         "movies",
         "series"
       ],
-      "count": 7049,
-      "status": "unchanged",
-      "revision": 8
+      "count": 7061,
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 1207066
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +221,8 @@
       ],
       "count": 1311,
       "status": "delta",
-      "revision": 15,
-      "compressedBytes": 334797
+      "revision": 16,
+      "compressedBytes": 334828
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -241,8 +242,9 @@
         "anime"
       ],
       "count": 443,
-      "status": "unchanged",
-      "revision": 3
+      "status": "delta",
+      "revision": 4,
+      "compressedBytes": 180416
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -314,8 +316,9 @@
         "series"
       ],
       "count": 1821,
-      "status": "unchanged",
-      "revision": 3
+      "status": "delta",
+      "revision": 4,
+      "compressedBytes": 570975
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
