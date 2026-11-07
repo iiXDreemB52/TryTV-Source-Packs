@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2351,
-  "canonicalCommit": "ad3d30749ceba976d8003b96b71b1d1227e563e9",
-  "generatedAt": "2026-11-07T15:43:34.766Z",
+  "canonicalRevision": 2352,
+  "canonicalCommit": "36345ad264150ad1ddbb8b2aa09061e90f8d3ac9",
+  "generatedAt": "2026-11-07T16:13:34.905Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -14,8 +14,9 @@
         "anime"
       ],
       "count": 2376,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 804389
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -95,8 +96,9 @@
         "series"
       ],
       "count": 1270,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 291495
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -218,8 +220,9 @@
         "manhwa"
       ],
       "count": 1311,
-      "status": "unchanged",
-      "revision": 12
+      "status": "delta",
+      "revision": 13,
+      "compressedBytes": 334764
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -229,9 +232,8 @@
         "series"
       ],
       "count": 1245,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 255218
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://ristoanime.me/",
@@ -345,9 +347,8 @@
         "series"
       ],
       "count": 517,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 120991
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
