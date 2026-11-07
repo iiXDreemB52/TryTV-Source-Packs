@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2333,
-  "canonicalCommit": "e137df67cb293da1f4b23a613cb521da25ba293d",
-  "generatedAt": "2026-11-07T09:13:37.785Z",
+  "canonicalRevision": 2334,
+  "canonicalCommit": "8f1bb8cd668bb833d71840d4427d17b1b66021a0",
+  "generatedAt": "2026-11-07T09:43:36.714Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7001,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 1201627
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +219,8 @@
       ],
       "count": 1310,
       "status": "delta",
-      "revision": 4,
-      "compressedBytes": 334190
+      "revision": 5,
+      "compressedBytes": 334239
     },
     {
       "source": "https://q4.shooflive.sbs/",
