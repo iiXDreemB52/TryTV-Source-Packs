@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2369,
-  "canonicalCommit": "7e6c792d83fe06dd059d06df9d7d7a013109b8c3",
-  "generatedAt": "2026-11-07T20:43:37.819Z",
+  "canonicalRevision": 2370,
+  "canonicalCommit": "2b0443813d799e6825b9f9758d2fe1021b13ec66",
+  "generatedAt": "2026-11-07T21:13:36.769Z",
   "publishedSources": 35,
   "changed": 3,
   "excluded": 0,
@@ -95,8 +95,9 @@
         "series"
       ],
       "count": 1271,
-      "status": "unchanged",
-      "revision": 8
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 291767
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -218,8 +219,9 @@
         "manhwa"
       ],
       "count": 1311,
-      "status": "unchanged",
-      "revision": 17
+      "status": "delta",
+      "revision": 18,
+      "compressedBytes": 334826
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -240,8 +242,8 @@
       ],
       "count": 443,
       "status": "delta",
-      "revision": 7,
-      "compressedBytes": 180563
+      "revision": 8,
+      "compressedBytes": 180717
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -303,9 +305,8 @@
         "series"
       ],
       "count": 1930,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 505807
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -314,9 +315,8 @@
         "series"
       ],
       "count": 1823,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 571643
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
