@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2343,
-  "canonicalCommit": "ff8c6ec06596c47cb496f53330785a18b753eccd",
-  "generatedAt": "2026-11-07T13:13:34.566Z",
+  "canonicalRevision": 2345,
+  "canonicalCommit": "a9fc258d77082b7c4ee212b7f20197f352b231b0",
+  "generatedAt": "2026-11-07T13:43:35.168Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -207,9 +207,10 @@
         "movies",
         "series"
       ],
-      "count": 7025,
-      "status": "unchanged",
-      "revision": 6
+      "count": 7037,
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 1204921
     },
     {
       "source": "https://olympustaff.com/",
@@ -218,8 +219,9 @@
         "manhwa"
       ],
       "count": 1311,
-      "status": "unchanged",
-      "revision": 9
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 334621
     },
     {
       "source": "https://q4.shooflive.sbs/",
