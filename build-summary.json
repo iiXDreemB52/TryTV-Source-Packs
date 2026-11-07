@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2338,
-  "canonicalCommit": "e5c744843652cbefc5a386bee8077d693d3bab13",
-  "generatedAt": "2026-11-07T11:43:34.731Z",
+  "canonicalRevision": 2341,
+  "canonicalCommit": "16d41849f9dea1b01618c56f9baeedcbde334c9e",
+  "generatedAt": "2026-11-07T12:13:35.025Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -207,9 +207,10 @@
         "movies",
         "series"
       ],
-      "count": 7013,
-      "status": "unchanged",
-      "revision": 5
+      "count": 7025,
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 1203863
     },
     {
       "source": "https://olympustaff.com/",
@@ -218,8 +219,9 @@
         "manhwa"
       ],
       "count": 1310,
-      "status": "unchanged",
-      "revision": 7
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 334289
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -344,8 +346,9 @@
         "series"
       ],
       "count": 517,
-      "status": "unchanged",
-      "revision": 3
+      "status": "delta",
+      "revision": 4,
+      "compressedBytes": 120994
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
