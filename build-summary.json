@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2343,
-  "canonicalCommit": "252931668f03ca54fa5036bfc3e1eacb9a5f2e69",
-  "generatedAt": "2026-11-07T12:43:34.779Z",
+  "canonicalCommit": "ff8c6ec06596c47cb496f53330785a18b753eccd",
+  "generatedAt": "2026-11-07T13:13:34.566Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -218,9 +218,8 @@
         "manhwa"
       ],
       "count": 1311,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 334601
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -230,9 +229,8 @@
         "series"
       ],
       "count": 1245,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 255218
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://ristoanime.me/",
