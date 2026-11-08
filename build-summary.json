@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2397,
-  "canonicalCommit": "aa5dbf8839793983d32ae3b81bf366ea270a1858",
-  "generatedAt": "2026-11-08T06:13:35.094Z",
+  "canonicalCommit": "020fe159a079089d0db3ad960287b9e0a799c118",
+  "generatedAt": "2026-11-08T06:43:35.037Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -229,9 +229,8 @@
         "series"
       ],
       "count": 1245,
-      "status": "delta",
-      "revision": 7,
-      "compressedBytes": 255313
+      "status": "unchanged",
+      "revision": 7
     },
     {
       "source": "https://ristoanime.me/",
