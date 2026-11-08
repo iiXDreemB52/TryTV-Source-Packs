@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2422,
-  "canonicalCommit": "0051922de8aea595ade4959e15a001b45f02117e",
-  "generatedAt": "2026-11-08T16:43:35.509Z",
+  "canonicalRevision": 2424,
+  "canonicalCommit": "44327aba383f2205141dceb7bbb1c93f9a2db32d",
+  "generatedAt": "2026-11-08T17:13:34.394Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -13,9 +13,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 2379,
-      "status": "unchanged",
-      "revision": 5
+      "count": 2381,
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 806791
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -96,8 +97,8 @@
       ],
       "count": 1273,
       "status": "delta",
-      "revision": 14,
-      "compressedBytes": 292075
+      "revision": 15,
+      "compressedBytes": 292142
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -219,9 +220,8 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "delta",
-      "revision": 36,
-      "compressedBytes": 335455
+      "status": "unchanged",
+      "revision": 36
     },
     {
       "source": "https://q4.shooflive.sbs/",
