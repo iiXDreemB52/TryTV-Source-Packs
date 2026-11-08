@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2437,
-  "canonicalCommit": "45fa1e2e145f06a4a2de64c07e64f1a159fc670c",
-  "generatedAt": "2026-11-08T20:43:34.430Z",
+  "canonicalRevision": 2438,
+  "canonicalCommit": "699f5e1c750a6e9c13abffba52a4247eefb3ba71",
+  "generatedAt": "2026-11-08T21:13:34.462Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -74,9 +74,8 @@
         "anime"
       ],
       "count": 89,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 30877
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -220,8 +219,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 40,
-      "compressedBytes": 335744
+      "revision": 41,
+      "compressedBytes": 335699
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -336,9 +335,8 @@
         "movies"
       ],
       "count": 4080,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 1072820
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
