@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2413,
-  "canonicalCommit": "3fcd85b8db00617a7323865ac0f22dd3b3f71764",
-  "generatedAt": "2026-11-08T14:13:35.675Z",
+  "canonicalRevision": 2414,
+  "canonicalCommit": "686ffb64a727c21de0bc6e747518775f601a2a2f",
+  "generatedAt": "2026-11-08T14:43:35.283Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -219,8 +219,8 @@
       ],
       "count": 1312,
       "status": "delta",
-      "revision": 32,
-      "compressedBytes": 335354
+      "revision": 33,
+      "compressedBytes": 335400
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -345,9 +345,8 @@
         "series"
       ],
       "count": 519,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 121623
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
