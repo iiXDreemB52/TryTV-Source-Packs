@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2438,
-  "canonicalCommit": "699f5e1c750a6e9c13abffba52a4247eefb3ba71",
-  "generatedAt": "2026-11-08T21:13:34.462Z",
+  "canonicalRevision": 2441,
+  "canonicalCommit": "6921c2381914b67e809ca3c530941d9e8c20dd56",
+  "generatedAt": "2026-11-08T21:43:34.603Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -13,9 +13,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 2385,
-      "status": "unchanged",
-      "revision": 8
+      "count": 2387,
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 809002
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -95,8 +96,9 @@
         "series"
       ],
       "count": 1274,
-      "status": "unchanged",
-      "revision": 18
+      "status": "delta",
+      "revision": 19,
+      "compressedBytes": 292411
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -219,8 +221,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 41,
-      "compressedBytes": 335699
+      "revision": 42,
+      "compressedBytes": 335697
     },
     {
       "source": "https://q4.shooflive.sbs/",
