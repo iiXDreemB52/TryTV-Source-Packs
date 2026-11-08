@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2408,
-  "canonicalCommit": "7dcc23e8a6a4ca08145aa29e0812a402ec338add",
-  "generatedAt": "2026-11-08T10:43:35.543Z",
+  "canonicalRevision": 2409,
+  "canonicalCommit": "a3fa6d9cc20d7448819af839cea609ccb4a3c7d3",
+  "generatedAt": "2026-11-08T11:13:35.404Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -218,9 +218,8 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "delta",
-      "revision": 30,
-      "compressedBytes": 335347
+      "status": "unchanged",
+      "revision": 30
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -230,8 +229,9 @@
         "series"
       ],
       "count": 1245,
-      "status": "unchanged",
-      "revision": 7
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 255305
     },
     {
       "source": "https://ristoanime.me/",
@@ -345,8 +345,9 @@
         "series"
       ],
       "count": 518,
-      "status": "unchanged",
-      "revision": 8
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 121402
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
