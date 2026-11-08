@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2400,
-  "canonicalCommit": "5e9c59a97f6a2996173903a9258884f01f966964",
-  "generatedAt": "2026-11-08T08:13:34.994Z",
+  "canonicalRevision": 2402,
+  "canonicalCommit": "2e0a902f01720e144aa1ea425458470a1f2c90cd",
+  "generatedAt": "2026-11-08T08:43:35.290Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -207,9 +207,10 @@
         "movies",
         "series"
       ],
-      "count": 7145,
-      "status": "unchanged",
-      "revision": 16
+      "count": 7157,
+      "status": "delta",
+      "revision": 17,
+      "compressedBytes": 1216043
     },
     {
       "source": "https://olympustaff.com/",
