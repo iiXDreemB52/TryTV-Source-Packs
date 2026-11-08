@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2434,
-  "canonicalCommit": "5897eb2278683c5b56214cf32240441eacbcedf4",
-  "generatedAt": "2026-11-08T20:13:34.549Z",
+  "canonicalRevision": 2437,
+  "canonicalCommit": "45fa1e2e145f06a4a2de64c07e64f1a159fc670c",
+  "generatedAt": "2026-11-08T20:43:34.430Z",
   "publishedSources": 35,
-  "changed": 6,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2385,
-      "status": "delta",
-      "revision": 8,
-      "compressedBytes": 808207
+      "status": "unchanged",
+      "revision": 8
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -74,10 +73,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 87,
+      "count": 89,
       "status": "delta",
-      "revision": 8,
-      "compressedBytes": 30517
+      "revision": 9,
+      "compressedBytes": 30877
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -97,9 +96,8 @@
         "series"
       ],
       "count": 1274,
-      "status": "delta",
-      "revision": 18,
-      "compressedBytes": 292316
+      "status": "unchanged",
+      "revision": 18
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -222,8 +220,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 39,
-      "compressedBytes": 335747
+      "revision": 40,
+      "compressedBytes": 335744
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -233,9 +231,8 @@
         "series"
       ],
       "count": 1246,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 255666
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://ristoanime.me/",
@@ -338,9 +335,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4079,
-      "status": "unchanged",
-      "revision": 9
+      "count": 4080,
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 1072820
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
@@ -349,9 +347,8 @@
         "series"
       ],
       "count": 520,
-      "status": "delta",
-      "revision": 12,
-      "compressedBytes": 121942
+      "status": "unchanged",
+      "revision": 12
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
