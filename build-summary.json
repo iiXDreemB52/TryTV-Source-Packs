@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2444,
-  "canonicalCommit": "b2d0eaa1c05181cacc1360c712c07ee60341099e",
-  "generatedAt": "2026-11-08T22:13:34.545Z",
+  "canonicalRevision": 2445,
+  "canonicalCommit": "5b581d059e74c98524943dc8c2f4e7762e789e19",
+  "generatedAt": "2026-11-08T22:43:34.793Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -74,9 +74,8 @@
         "anime"
       ],
       "count": 89,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 30942
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -220,8 +219,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 43,
-      "compressedBytes": 335715
+      "revision": 44,
+      "compressedBytes": 335722
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -241,9 +240,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 181231
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -327,9 +325,8 @@
         "series"
       ],
       "count": 925,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 360520
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
