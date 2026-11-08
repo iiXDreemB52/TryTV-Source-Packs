@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2424,
-  "canonicalCommit": "44327aba383f2205141dceb7bbb1c93f9a2db32d",
-  "generatedAt": "2026-11-08T17:13:34.394Z",
+  "canonicalRevision": 2426,
+  "canonicalCommit": "ee8f21824f2ecb27ea1cea7c7cf4b1d7f701fe6a",
+  "generatedAt": "2026-11-08T17:43:35.320Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2381,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 806791
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -74,9 +73,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 86,
-      "status": "unchanged",
-      "revision": 6
+      "count": 87,
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 30517
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -97,8 +97,8 @@
       ],
       "count": 1273,
       "status": "delta",
-      "revision": 15,
-      "compressedBytes": 292142
+      "revision": 16,
+      "compressedBytes": 292160
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
