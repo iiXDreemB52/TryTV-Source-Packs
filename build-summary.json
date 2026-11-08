@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2417,
-  "canonicalCommit": "c8994198d199fd5349e9c8aef614dde53e0bf5da",
-  "generatedAt": "2026-11-08T15:13:35.472Z",
+  "canonicalRevision": 2418,
+  "canonicalCommit": "8a67b5ca1e21f358bef8a6f1e5a376f167254c73",
+  "generatedAt": "2026-11-08T15:43:35.490Z",
   "publishedSources": 35,
-  "changed": 5,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2379,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 806140
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -96,9 +95,8 @@
         "series"
       ],
       "count": 1272,
-      "status": "delta",
-      "revision": 13,
-      "compressedBytes": 291918
+      "status": "unchanged",
+      "revision": 13
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -198,9 +196,8 @@
         "manhwa"
       ],
       "count": 407,
-      "status": "delta",
-      "revision": 3,
-      "compressedBytes": 176798
+      "status": "unchanged",
+      "revision": 3
     },
     {
       "source": "https://laroza.garden/",
@@ -222,8 +219,8 @@
       ],
       "count": 1312,
       "status": "delta",
-      "revision": 34,
-      "compressedBytes": 335458
+      "revision": 35,
+      "compressedBytes": 335462
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -306,8 +303,9 @@
         "series"
       ],
       "count": 1930,
-      "status": "unchanged",
-      "revision": 6
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 505992
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -316,8 +314,9 @@
         "series"
       ],
       "count": 1823,
-      "status": "unchanged",
-      "revision": 8
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 571636
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -328,9 +327,8 @@
         "series"
       ],
       "count": 925,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 360400
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
