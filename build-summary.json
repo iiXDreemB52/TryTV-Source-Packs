@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2393,
-  "canonicalCommit": "b4a6c83d54ca918bd9596b57db897621d74ae566",
-  "generatedAt": "2026-11-08T04:43:35.274Z",
+  "canonicalRevision": 2394,
+  "canonicalCommit": "8e20d5bc9fe44c16e9a28e64e81012c510a107c9",
+  "generatedAt": "2026-11-08T05:13:35.172Z",
   "publishedSources": 35,
   "changed": 3,
   "excluded": 0,
@@ -218,8 +218,9 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "unchanged",
-      "revision": 27
+      "status": "delta",
+      "revision": 28,
+      "compressedBytes": 335308
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -229,9 +230,8 @@
         "series"
       ],
       "count": 1245,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 255313
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://ristoanime.me/",
@@ -303,8 +303,9 @@
         "series"
       ],
       "count": 1930,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 505881
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -313,8 +314,9 @@
         "series"
       ],
       "count": 1823,
-      "status": "unchanged",
-      "revision": 7
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 571640
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -325,9 +327,8 @@
         "series"
       ],
       "count": 925,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 360352
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
@@ -336,9 +337,8 @@
         "movies"
       ],
       "count": 4079,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 1072568
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
