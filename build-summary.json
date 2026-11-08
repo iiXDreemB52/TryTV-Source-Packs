@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2409,
-  "canonicalCommit": "a3fa6d9cc20d7448819af839cea609ccb4a3c7d3",
-  "generatedAt": "2026-11-08T11:13:35.404Z",
+  "canonicalRevision": 2410,
+  "canonicalCommit": "324bfc8b08e8550dcd1a0e02e516aaa830a49c0d",
+  "generatedAt": "2026-11-08T11:43:35.532Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -95,8 +95,9 @@
         "series"
       ],
       "count": 1272,
-      "status": "unchanged",
-      "revision": 11
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 291925
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -229,9 +230,8 @@
         "series"
       ],
       "count": 1245,
-      "status": "delta",
-      "revision": 8,
-      "compressedBytes": 255305
+      "status": "unchanged",
+      "revision": 8
     },
     {
       "source": "https://ristoanime.me/",
@@ -240,8 +240,9 @@
         "anime"
       ],
       "count": 443,
-      "status": "unchanged",
-      "revision": 9
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 180816
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -345,9 +346,8 @@
         "series"
       ],
       "count": 518,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 121402
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
