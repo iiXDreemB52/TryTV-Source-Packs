@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2379,
-  "canonicalCommit": "310c8a69cb2edfb4e9729fd9b10879eb2ff51a49",
-  "generatedAt": "2026-11-07T23:13:37.051Z",
+  "canonicalRevision": 2382,
+  "canonicalCommit": "1f1b275a6e5e6bd8f9ebf701664cf7e0d4455fd9",
+  "generatedAt": "2026-11-08T00:13:37.245Z",
   "publishedSources": 35,
-  "changed": 5,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -95,9 +95,8 @@
         "series"
       ],
       "count": 1272,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 291918
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -209,9 +208,8 @@
         "series"
       ],
       "count": 7097,
-      "status": "delta",
-      "revision": 12,
-      "compressedBytes": 1210557
+      "status": "unchanged",
+      "revision": 12
     },
     {
       "source": "https://olympustaff.com/",
@@ -219,10 +217,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1311,
+      "count": 1312,
       "status": "delta",
-      "revision": 21,
-      "compressedBytes": 334835
+      "revision": 22,
+      "compressedBytes": 335131
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -305,9 +303,8 @@
         "series"
       ],
       "count": 1930,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 505876
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -338,8 +335,9 @@
         "movies"
       ],
       "count": 4078,
-      "status": "unchanged",
-      "revision": 6
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 1072184
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
@@ -348,9 +346,8 @@
         "series"
       ],
       "count": 517,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 120994
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
