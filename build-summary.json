@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2410,
-  "canonicalCommit": "324bfc8b08e8550dcd1a0e02e516aaa830a49c0d",
-  "generatedAt": "2026-11-08T11:43:35.532Z",
+  "canonicalRevision": 2411,
+  "canonicalCommit": "91009212c8d8a8a0c4bfb2b225b4ae13e50efc70",
+  "generatedAt": "2026-11-08T13:13:35.234Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -74,8 +74,9 @@
         "anime"
       ],
       "count": 86,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 30294
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -95,9 +96,8 @@
         "series"
       ],
       "count": 1272,
-      "status": "delta",
-      "revision": 12,
-      "compressedBytes": 291925
+      "status": "unchanged",
+      "revision": 12
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -219,8 +219,9 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "unchanged",
-      "revision": 30
+      "status": "delta",
+      "revision": 31,
+      "compressedBytes": 335346
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -240,9 +241,8 @@
         "anime"
       ],
       "count": 443,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 180816
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
