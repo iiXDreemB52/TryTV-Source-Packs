@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2402,
-  "canonicalCommit": "2e0a902f01720e144aa1ea425458470a1f2c90cd",
-  "generatedAt": "2026-11-08T08:43:35.290Z",
+  "canonicalRevision": 2403,
+  "canonicalCommit": "779b32e4b4668ef5c05509186c6889650b5205fa",
+  "generatedAt": "2026-11-08T09:13:35.054Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -74,8 +74,9 @@
         "anime"
       ],
       "count": 86,
-      "status": "unchanged",
-      "revision": 4
+      "status": "delta",
+      "revision": 5,
+      "compressedBytes": 30296
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -208,9 +209,8 @@
         "series"
       ],
       "count": 7157,
-      "status": "delta",
-      "revision": 17,
-      "compressedBytes": 1216043
+      "status": "unchanged",
+      "revision": 17
     },
     {
       "source": "https://olympustaff.com/",
