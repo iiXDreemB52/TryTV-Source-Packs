@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2429,
-  "canonicalCommit": "79b331dc65f1024c88692fd9e827a2e74f20df44",
-  "generatedAt": "2026-11-08T19:13:34.741Z",
+  "canonicalRevision": 2434,
+  "canonicalCommit": "5897eb2278683c5b56214cf32240441eacbcedf4",
+  "generatedAt": "2026-11-08T20:13:34.549Z",
   "publishedSources": 35,
-  "changed": 5,
+  "changed": 6,
   "excluded": 0,
   "entries": [
     {
@@ -13,10 +13,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 2383,
+      "count": 2385,
       "status": "delta",
-      "revision": 7,
-      "compressedBytes": 807610
+      "revision": 8,
+      "compressedBytes": 808207
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -75,8 +75,9 @@
         "anime"
       ],
       "count": 87,
-      "status": "unchanged",
-      "revision": 7
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 30517
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -97,8 +98,8 @@
       ],
       "count": 1274,
       "status": "delta",
-      "revision": 17,
-      "compressedBytes": 292234
+      "revision": 18,
+      "compressedBytes": 292316
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -221,8 +222,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 38,
-      "compressedBytes": 335739
+      "revision": 39,
+      "compressedBytes": 335747
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -231,9 +232,10 @@
         "movies",
         "series"
       ],
-      "count": 1245,
-      "status": "unchanged",
-      "revision": 8
+      "count": 1246,
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 255666
     },
     {
       "source": "https://ristoanime.me/",
@@ -305,9 +307,8 @@
         "series"
       ],
       "count": 1930,
-      "status": "delta",
-      "revision": 8,
-      "compressedBytes": 505999
+      "status": "unchanged",
+      "revision": 8
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -316,9 +317,8 @@
         "series"
       ],
       "count": 1823,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 571738
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -349,8 +349,9 @@
         "series"
       ],
       "count": 520,
-      "status": "unchanged",
-      "revision": 11
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 121942
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
