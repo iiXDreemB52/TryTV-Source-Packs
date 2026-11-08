@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2394,
-  "canonicalCommit": "8e20d5bc9fe44c16e9a28e64e81012c510a107c9",
-  "generatedAt": "2026-11-08T05:13:35.172Z",
+  "canonicalRevision": 2396,
+  "canonicalCommit": "0978a1b01fd795f3feb2dc784c51c97e1f180639",
+  "generatedAt": "2026-11-08T05:43:35.283Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -207,9 +207,10 @@
         "movies",
         "series"
       ],
-      "count": 7121,
-      "status": "unchanged",
-      "revision": 14
+      "count": 7133,
+      "status": "delta",
+      "revision": 15,
+      "compressedBytes": 1213817
     },
     {
       "source": "https://olympustaff.com/",
@@ -218,9 +219,8 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "delta",
-      "revision": 28,
-      "compressedBytes": 335308
+      "status": "unchanged",
+      "revision": 28
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -303,9 +303,8 @@
         "series"
       ],
       "count": 1930,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 505881
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -314,9 +313,8 @@
         "series"
       ],
       "count": 1823,
-      "status": "delta",
-      "revision": 8,
-      "compressedBytes": 571640
+      "status": "unchanged",
+      "revision": 8
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
