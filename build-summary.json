@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2420,
-  "canonicalCommit": "164248ecfc9d0fa6f21d2289650a619dbd82c982",
-  "generatedAt": "2026-11-08T16:13:35.224Z",
+  "canonicalRevision": 2422,
+  "canonicalCommit": "0051922de8aea595ade4959e15a001b45f02117e",
+  "generatedAt": "2026-11-08T16:43:35.509Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -94,9 +94,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1272,
-      "status": "unchanged",
-      "revision": 13
+      "count": 1273,
+      "status": "delta",
+      "revision": 14,
+      "compressedBytes": 292075
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -218,8 +219,9 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "unchanged",
-      "revision": 35
+      "status": "delta",
+      "revision": 36,
+      "compressedBytes": 335455
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -344,9 +346,8 @@
         "series"
       ],
       "count": 520,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 121890
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
