@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2403,
-  "canonicalCommit": "779b32e4b4668ef5c05509186c6889650b5205fa",
-  "generatedAt": "2026-11-08T09:13:35.054Z",
+  "canonicalRevision": 2406,
+  "canonicalCommit": "80cbfbd54aa6a56389a63a17fac82f3164d5b9f2",
+  "generatedAt": "2026-11-08T09:43:35.171Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -74,9 +74,8 @@
         "anime"
       ],
       "count": 86,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 30296
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -126,8 +125,9 @@
         "anime"
       ],
       "count": 64,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 18256
     },
     {
       "source": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
@@ -344,9 +344,10 @@
       "kinds": [
         "series"
       ],
-      "count": 517,
-      "status": "unchanged",
-      "revision": 7
+      "count": 518,
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 121337
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
