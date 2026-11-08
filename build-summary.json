@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2384,
-  "canonicalCommit": "4d1c88420313cf99b0ea96f1003c58f11485f268",
-  "generatedAt": "2026-11-08T01:13:35.190Z",
+  "canonicalCommit": "fb94f2f3cfef247f2ebaf2b6cb542d30aaa5cae6",
+  "generatedAt": "2026-11-08T01:43:34.894Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7109,
-      "status": "delta",
-      "revision": 13,
-      "compressedBytes": 1211644
+      "status": "unchanged",
+      "revision": 13
     },
     {
       "source": "https://olympustaff.com/",
