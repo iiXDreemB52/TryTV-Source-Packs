@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2400,
-  "canonicalCommit": "aeed457e1473bba41dc69d08afd9ec038e723577",
-  "generatedAt": "2026-11-08T07:13:35.309Z",
+  "canonicalCommit": "8b92452302cb9fef4341124cefaacb432847e1cb",
+  "generatedAt": "2026-11-08T07:43:35.042Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7145,
-      "status": "delta",
-      "revision": 16,
-      "compressedBytes": 1214834
+      "status": "unchanged",
+      "revision": 16
     },
     {
       "source": "https://olympustaff.com/",
@@ -219,9 +218,8 @@
         "manhwa"
       ],
       "count": 1312,
-      "status": "delta",
-      "revision": 29,
-      "compressedBytes": 335301
+      "status": "unchanged",
+      "revision": 29
     },
     {
       "source": "https://q4.shooflive.sbs/",
