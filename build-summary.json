@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2427,
-  "canonicalCommit": "768eb73bc3cd45b9971ebf87dfb717ce81eca74d",
-  "generatedAt": "2026-11-08T18:13:35.278Z",
+  "canonicalRevision": 2429,
+  "canonicalCommit": "79b331dc65f1024c88692fd9e827a2e74f20df44",
+  "generatedAt": "2026-11-08T19:13:34.741Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 5,
   "excluded": 0,
   "entries": [
     {
@@ -13,9 +13,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 2381,
-      "status": "unchanged",
-      "revision": 6
+      "count": 2383,
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 807610
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -94,9 +95,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1273,
-      "status": "unchanged",
-      "revision": 16
+      "count": 1274,
+      "status": "delta",
+      "revision": 17,
+      "compressedBytes": 292234
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -217,10 +219,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1312,
+      "count": 1313,
       "status": "delta",
-      "revision": 37,
-      "compressedBytes": 335454
+      "revision": 38,
+      "compressedBytes": 335739
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -303,8 +305,9 @@
         "series"
       ],
       "count": 1930,
-      "status": "unchanged",
-      "revision": 7
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 505999
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -313,8 +316,9 @@
         "series"
       ],
       "count": 1823,
-      "status": "unchanged",
-      "revision": 9
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 571738
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
