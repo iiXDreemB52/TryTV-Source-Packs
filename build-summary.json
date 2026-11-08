@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2388,
-  "canonicalCommit": "75bd1c0f9cb6ae756ef853f1cf9ca7a5c1c1464b",
-  "generatedAt": "2026-11-08T02:43:35.204Z",
+  "canonicalRevision": 2390,
+  "canonicalCommit": "e9b49fcc50bc3bb6dd6f819fe87435a0b16e36db",
+  "generatedAt": "2026-11-08T03:13:35.328Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7121,
-      "status": "delta",
-      "revision": 14,
-      "compressedBytes": 1212714
+      "status": "unchanged",
+      "revision": 14
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +219,8 @@
       ],
       "count": 1312,
       "status": "delta",
-      "revision": 24,
-      "compressedBytes": 335174
+      "revision": 25,
+      "compressedBytes": 335238
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -335,9 +334,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4078,
-      "status": "unchanged",
-      "revision": 7
+      "count": 4079,
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 1072465
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
