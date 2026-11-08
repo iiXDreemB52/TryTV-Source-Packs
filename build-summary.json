@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2396,
-  "canonicalCommit": "0978a1b01fd795f3feb2dc784c51c97e1f180639",
-  "generatedAt": "2026-11-08T05:43:35.283Z",
+  "canonicalRevision": 2397,
+  "canonicalCommit": "aa5dbf8839793983d32ae3b81bf366ea270a1858",
+  "generatedAt": "2026-11-08T06:13:35.094Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -208,9 +208,8 @@
         "series"
       ],
       "count": 7133,
-      "status": "delta",
-      "revision": 15,
-      "compressedBytes": 1213817
+      "status": "unchanged",
+      "revision": 15
     },
     {
       "source": "https://olympustaff.com/",
@@ -230,8 +229,9 @@
         "series"
       ],
       "count": 1245,
-      "status": "unchanged",
-      "revision": 6
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 255313
     },
     {
       "source": "https://ristoanime.me/",
