@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2441,
-  "canonicalCommit": "6921c2381914b67e809ca3c530941d9e8c20dd56",
-  "generatedAt": "2026-11-08T21:43:34.603Z",
+  "canonicalRevision": 2444,
+  "canonicalCommit": "b2d0eaa1c05181cacc1360c712c07ee60341099e",
+  "generatedAt": "2026-11-08T22:13:34.545Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 4,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2387,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 809002
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -75,8 +74,9 @@
         "anime"
       ],
       "count": 89,
-      "status": "unchanged",
-      "revision": 9
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 30942
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -96,9 +96,8 @@
         "series"
       ],
       "count": 1274,
-      "status": "delta",
-      "revision": 19,
-      "compressedBytes": 292411
+      "status": "unchanged",
+      "revision": 19
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -221,8 +220,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 42,
-      "compressedBytes": 335697
+      "revision": 43,
+      "compressedBytes": 335715
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -241,9 +240,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 443,
-      "status": "unchanged",
-      "revision": 10
+      "count": 444,
+      "status": "delta",
+      "revision": 11,
+      "compressedBytes": 181231
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -327,8 +327,9 @@
         "series"
       ],
       "count": 925,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 360520
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
