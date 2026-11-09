@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2450,
-  "canonicalCommit": "54d59f58fc728d8a8f89fb56b573aa15b1815d7c",
-  "generatedAt": "2026-11-09T02:43:34.539Z",
+  "canonicalRevision": 2451,
+  "canonicalCommit": "61afaf40ca861ca3b86743b9d059000ae6ea5dc8",
+  "generatedAt": "2026-11-09T03:13:34.433Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -125,8 +125,9 @@
         "anime"
       ],
       "count": 64,
-      "status": "unchanged",
-      "revision": 3
+      "status": "delta",
+      "revision": 4,
+      "compressedBytes": 18255
     },
     {
       "source": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
@@ -218,9 +219,8 @@
         "manhwa"
       ],
       "count": 1313,
-      "status": "delta",
-      "revision": 49,
-      "compressedBytes": 335772
+      "status": "unchanged",
+      "revision": 49
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -345,9 +345,8 @@
         "series"
       ],
       "count": 520,
-      "status": "delta",
-      "revision": 13,
-      "compressedBytes": 121945
+      "status": "unchanged",
+      "revision": 13
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
