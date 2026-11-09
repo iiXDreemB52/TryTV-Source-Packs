@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2466,
-  "canonicalCommit": "0eefbfb303fe8c962ff7c2fd09ef94a14aef00a0",
-  "generatedAt": "2026-11-09T13:43:35.545Z",
+  "canonicalRevision": 2467,
+  "canonicalCommit": "a8422486245ce2df086121dad030cc654471686d",
+  "generatedAt": "2026-11-09T14:13:35.089Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -74,9 +74,8 @@
         "anime"
       ],
       "count": 89,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 30959
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -96,9 +95,8 @@
         "series"
       ],
       "count": 1274,
-      "status": "delta",
-      "revision": 23,
-      "compressedBytes": 292426
+      "status": "unchanged",
+      "revision": 23
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -231,8 +229,9 @@
         "series"
       ],
       "count": 1246,
-      "status": "unchanged",
-      "revision": 11
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 255661
     },
     {
       "source": "https://ristoanime.me/",
