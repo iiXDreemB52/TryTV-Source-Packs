@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2464,
-  "canonicalCommit": "c91bad0f7ba314cb08bcfca8622b096026ea2210",
-  "generatedAt": "2026-11-09T12:43:35.634Z",
+  "canonicalRevision": 2466,
+  "canonicalCommit": "0eefbfb303fe8c962ff7c2fd09ef94a14aef00a0",
+  "generatedAt": "2026-11-09T13:43:35.545Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -74,8 +74,9 @@
         "anime"
       ],
       "count": 89,
-      "status": "unchanged",
-      "revision": 10
+      "status": "delta",
+      "revision": 11,
+      "compressedBytes": 30959
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -95,8 +96,9 @@
         "series"
       ],
       "count": 1274,
-      "status": "unchanged",
-      "revision": 22
+      "status": "delta",
+      "revision": 23,
+      "compressedBytes": 292426
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -344,9 +346,8 @@
         "series"
       ],
       "count": 521,
-      "status": "delta",
-      "revision": 14,
-      "compressedBytes": 122130
+      "status": "unchanged",
+      "revision": 14
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
