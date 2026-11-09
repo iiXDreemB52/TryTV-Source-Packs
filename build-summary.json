@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2451,
-  "canonicalCommit": "61afaf40ca861ca3b86743b9d059000ae6ea5dc8",
-  "generatedAt": "2026-11-09T03:13:34.433Z",
+  "canonicalCommit": "f14e0100a593e774490ef4a4d7933612da0d711c",
+  "generatedAt": "2026-11-09T03:43:34.372Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -125,9 +125,8 @@
         "anime"
       ],
       "count": 64,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 18255
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
