@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2456,
-  "canonicalCommit": "a31d1a0398ff47782fece554cac75a43f0bed8d3",
-  "generatedAt": "2026-11-09T06:13:34.674Z",
+  "canonicalRevision": 2457,
+  "canonicalCommit": "30fd80a150279532fab5c0b01015bdb0399353eb",
+  "generatedAt": "2026-11-09T06:43:34.540Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -218,9 +218,8 @@
         "manhwa"
       ],
       "count": 1313,
-      "status": "delta",
-      "revision": 52,
-      "compressedBytes": 335868
+      "status": "unchanged",
+      "revision": 52
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -230,9 +229,8 @@
         "series"
       ],
       "count": 1246,
-      "status": "delta",
-      "revision": 10,
-      "compressedBytes": 255668
+      "status": "unchanged",
+      "revision": 10
     },
     {
       "source": "https://ristoanime.me/",
@@ -242,8 +240,8 @@
       ],
       "count": 444,
       "status": "delta",
-      "revision": 12,
-      "compressedBytes": 181440
+      "revision": 13,
+      "compressedBytes": 181721
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
