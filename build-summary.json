@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2447,
-  "canonicalCommit": "227bb567f7fb2be3ab90a089e8977a2343d9bd19",
-  "generatedAt": "2026-11-08T23:43:34.422Z",
+  "canonicalRevision": 2448,
+  "canonicalCommit": "b5d6e51e25e5fa6798e824486e40dc23e2360b26",
+  "generatedAt": "2026-11-09T00:13:34.597Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -95,8 +95,9 @@
         "series"
       ],
       "count": 1274,
-      "status": "unchanged",
-      "revision": 19
+      "status": "delta",
+      "revision": 20,
+      "compressedBytes": 292410
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -219,8 +220,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 46,
-      "compressedBytes": 335722
+      "revision": 47,
+      "compressedBytes": 335719
     },
     {
       "source": "https://q4.shooflive.sbs/",
