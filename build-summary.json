@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2453,
-  "canonicalCommit": "6e2b98f9e5a8ce25dfb5ff9a19053b573544b870",
-  "generatedAt": "2026-11-09T05:13:34.718Z",
+  "canonicalRevision": 2455,
+  "canonicalCommit": "ae98be9e44a0a04912f1ea16ab95684492b6f988",
+  "generatedAt": "2026-11-09T05:43:34.798Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -95,9 +95,8 @@
         "series"
       ],
       "count": 1274,
-      "status": "delta",
-      "revision": 21,
-      "compressedBytes": 292409
+      "status": "unchanged",
+      "revision": 21
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -197,9 +196,8 @@
         "manhwa"
       ],
       "count": 407,
-      "status": "delta",
-      "revision": 4,
-      "compressedBytes": 176850
+      "status": "unchanged",
+      "revision": 4
     },
     {
       "source": "https://laroza.garden/",
@@ -221,8 +219,8 @@
       ],
       "count": 1313,
       "status": "delta",
-      "revision": 50,
-      "compressedBytes": 335822
+      "revision": 51,
+      "compressedBytes": 335824
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -315,8 +313,9 @@
         "series"
       ],
       "count": 1823,
-      "status": "unchanged",
-      "revision": 10
+      "status": "delta",
+      "revision": 11,
+      "compressedBytes": 571772
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -327,9 +326,8 @@
         "series"
       ],
       "count": 925,
-      "status": "delta",
-      "revision": 7,
-      "compressedBytes": 360574
+      "status": "unchanged",
+      "revision": 7
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
