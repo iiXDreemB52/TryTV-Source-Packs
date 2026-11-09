@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2467,
-  "canonicalCommit": "a8422486245ce2df086121dad030cc654471686d",
-  "generatedAt": "2026-11-09T14:13:35.089Z",
+  "canonicalRevision": 2468,
+  "canonicalCommit": "298692a9be410a690328f0fdc7744cea8b2f295e",
+  "generatedAt": "2026-11-09T14:43:35.201Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -85,8 +85,9 @@
         "series"
       ],
       "count": 66,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 23581
     },
     {
       "source": "https://fussshaar.rest/",
@@ -229,9 +230,8 @@
         "series"
       ],
       "count": 1246,
-      "status": "delta",
-      "revision": 12,
-      "compressedBytes": 255661
+      "status": "unchanged",
+      "revision": 12
     },
     {
       "source": "https://ristoanime.me/",
