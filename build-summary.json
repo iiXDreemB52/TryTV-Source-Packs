@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2474,
-  "canonicalCommit": "88e270ba6552264d2f26e1af2891043e5cda441c",
-  "generatedAt": "2026-11-09T17:13:37.459Z",
+  "canonicalRevision": 2476,
+  "canonicalCommit": "fa535bfd0d31ee5b8ec1b8f2846cd20d088e9d22",
+  "generatedAt": "2026-11-09T17:43:36.051Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -95,9 +95,8 @@
         "series"
       ],
       "count": 1274,
-      "status": "delta",
-      "revision": 25,
-      "compressedBytes": 292448
+      "status": "unchanged",
+      "revision": 25
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -220,8 +219,8 @@
       ],
       "count": 1314,
       "status": "delta",
-      "revision": 59,
-      "compressedBytes": 336296
+      "revision": 60,
+      "compressedBytes": 336298
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -336,9 +335,8 @@
         "movies"
       ],
       "count": 4081,
-      "status": "delta",
-      "revision": 12,
-      "compressedBytes": 1073167
+      "status": "unchanged",
+      "revision": 12
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
