@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2458,
-  "canonicalCommit": "f90cf0742c3b4244367ccad901a1d8a8c48bf955",
-  "generatedAt": "2026-11-09T07:43:34.598Z",
+  "canonicalRevision": 2459,
+  "canonicalCommit": "bbd7462cacb04c6d5a6ff9f42900889e70957603",
+  "generatedAt": "2026-11-09T08:13:34.826Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -95,8 +95,9 @@
         "series"
       ],
       "count": 1274,
-      "status": "unchanged",
-      "revision": 21
+      "status": "delta",
+      "revision": 22,
+      "compressedBytes": 292414
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
