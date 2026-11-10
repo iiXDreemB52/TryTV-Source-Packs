@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2523,
-  "canonicalCommit": "5b3092576e74a191bddce1c0911530d6bc77da08",
-  "generatedAt": "2026-11-10T17:43:35.162Z",
+  "canonicalRevision": 2524,
+  "canonicalCommit": "bb704c84e92961d5621d71f25724e7316e8d2e9f",
+  "generatedAt": "2026-11-10T18:13:35.204Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -74,9 +74,8 @@
         "anime"
       ],
       "count": 89,
-      "status": "delta",
-      "revision": 13,
-      "compressedBytes": 31340
+      "status": "unchanged",
+      "revision": 13
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -219,8 +218,9 @@
         "manhwa"
       ],
       "count": 1314,
-      "status": "unchanged",
-      "revision": 78
+      "status": "delta",
+      "revision": 79,
+      "compressedBytes": 340637
     },
     {
       "source": "https://q4.shooflive.sbs/",
