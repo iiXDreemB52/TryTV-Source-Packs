@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2534,
-  "canonicalCommit": "4dae7c5c92872a87ae8de0d83027213052b0b68e",
-  "generatedAt": "2026-11-10T20:43:38.060Z",
+  "canonicalRevision": 2538,
+  "canonicalCommit": "d24f25110f7f178f775cb7a6b4058391972039ac",
+  "generatedAt": "2026-11-10T21:13:37.499Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -96,8 +96,8 @@
       ],
       "count": 1277,
       "status": "delta",
-      "revision": 40,
-      "compressedBytes": 296672
+      "revision": 41,
+      "compressedBytes": 296647
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -208,10 +208,10 @@
         "movies",
         "series"
       ],
-      "count": 7205,
+      "count": 7217,
       "status": "delta",
-      "revision": 21,
-      "compressedBytes": 1241837
+      "revision": 22,
+      "compressedBytes": 1243122
     },
     {
       "source": "https://olympustaff.com/",
@@ -346,8 +346,9 @@
         "series"
       ],
       "count": 523,
-      "status": "unchanged",
-      "revision": 18
+      "status": "delta",
+      "revision": 19,
+      "compressedBytes": 124464
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
