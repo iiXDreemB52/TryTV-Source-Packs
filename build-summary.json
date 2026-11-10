@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2531,
-  "canonicalCommit": "4bbf0db15a0d8454629813a7799135e3ed173ed1",
-  "generatedAt": "2026-11-10T20:13:37.530Z",
+  "canonicalRevision": 2534,
+  "canonicalCommit": "4dae7c5c92872a87ae8de0d83027213052b0b68e",
+  "generatedAt": "2026-11-10T20:43:38.060Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -96,8 +96,8 @@
       ],
       "count": 1277,
       "status": "delta",
-      "revision": 39,
-      "compressedBytes": 296667
+      "revision": 40,
+      "compressedBytes": 296672
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -197,9 +197,8 @@
         "manhwa"
       ],
       "count": 407,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 178481
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://laroza.garden/",
@@ -209,10 +208,10 @@
         "movies",
         "series"
       ],
-      "count": 7193,
+      "count": 7205,
       "status": "delta",
-      "revision": 20,
-      "compressedBytes": 1240553
+      "revision": 21,
+      "compressedBytes": 1241837
     },
     {
       "source": "https://olympustaff.com/",
