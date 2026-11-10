@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2529,
-  "canonicalCommit": "7f65ac4af3598aa9d279227db8b5b23d1fce9eb4",
-  "generatedAt": "2026-11-10T19:43:38.617Z",
+  "canonicalRevision": 2531,
+  "canonicalCommit": "4bbf0db15a0d8454629813a7799135e3ed173ed1",
+  "generatedAt": "2026-11-10T20:13:37.530Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -96,8 +96,8 @@
       ],
       "count": 1277,
       "status": "delta",
-      "revision": 38,
-      "compressedBytes": 296669
+      "revision": 39,
+      "compressedBytes": 296667
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -197,8 +197,9 @@
         "manhwa"
       ],
       "count": 407,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 178481
     },
     {
       "source": "https://laroza.garden/",
@@ -208,10 +209,10 @@
         "movies",
         "series"
       ],
-      "count": 7181,
+      "count": 7193,
       "status": "delta",
-      "revision": 19,
-      "compressedBytes": 1239270
+      "revision": 20,
+      "compressedBytes": 1240553
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,9 +221,8 @@
         "manhwa"
       ],
       "count": 1314,
-      "status": "delta",
-      "revision": 80,
-      "compressedBytes": 340646
+      "status": "unchanged",
+      "revision": 80
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -242,9 +242,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 16,
-      "compressedBytes": 183016
+      "status": "unchanged",
+      "revision": 16
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
