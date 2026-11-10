@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2508,
-  "canonicalCommit": "b3b081728f02ee5f1322740ded64ff26bdc57c39",
-  "generatedAt": "2026-11-10T08:43:35.517Z",
+  "canonicalRevision": 2509,
+  "canonicalCommit": "2e0be22b4fe30a64235084ac75a6d3ba1d59d99d",
+  "generatedAt": "2026-11-10T09:43:35.412Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -219,8 +219,8 @@
       ],
       "count": 1314,
       "status": "delta",
-      "revision": 69,
-      "compressedBytes": 340317
+      "revision": 70,
+      "compressedBytes": 340367
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -230,9 +230,8 @@
         "series"
       ],
       "count": 1246,
-      "status": "delta",
-      "revision": 15,
-      "compressedBytes": 256939
+      "status": "unchanged",
+      "revision": 15
     },
     {
       "source": "https://ristoanime.me/",
@@ -346,9 +345,8 @@
         "series"
       ],
       "count": 523,
-      "status": "delta",
-      "revision": 18,
-      "compressedBytes": 124473
+      "status": "unchanged",
+      "revision": 18
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
