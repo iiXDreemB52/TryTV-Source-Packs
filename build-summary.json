@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2516,
-  "canonicalCommit": "5bc6c5ec75d0e48ae89702dc4ebe189d694431f2",
-  "generatedAt": "2026-11-10T14:43:35.390Z",
+  "canonicalRevision": 2518,
+  "canonicalCommit": "b905a5e64bb56f32217dbd8b35d7cc5e17659830",
+  "generatedAt": "2026-11-10T15:13:35.501Z",
   "publishedSources": 35,
   "changed": 3,
   "excluded": 0,
@@ -219,8 +219,8 @@
       ],
       "count": 1314,
       "status": "delta",
-      "revision": 74,
-      "compressedBytes": 340542
+      "revision": 75,
+      "compressedBytes": 340545
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -314,8 +314,8 @@
       ],
       "count": 1826,
       "status": "delta",
-      "revision": 17,
-      "compressedBytes": 577268
+      "revision": 18,
+      "compressedBytes": 577335
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -337,8 +337,8 @@
       ],
       "count": 4084,
       "status": "delta",
-      "revision": 15,
-      "compressedBytes": 1074322
+      "revision": 16,
+      "compressedBytes": 1074512
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
