@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2494,
-  "canonicalCommit": "672defba309f1237a723acd5f6d524ba94bf3931",
-  "generatedAt": "2026-11-10T00:43:37.115Z",
+  "canonicalRevision": 2497,
+  "canonicalCommit": "e21363945f029c8c5bae6f4cdd3e6ee137c54bbc",
+  "generatedAt": "2026-11-10T01:13:38.436Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 13,
   "excluded": 0,
   "entries": [
     {
@@ -34,8 +34,9 @@
         "movies"
       ],
       "count": 29,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 3512
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-masr",
@@ -44,8 +45,9 @@
         "movies"
       ],
       "count": 27,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 3376
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-series",
@@ -64,8 +66,9 @@
         "movies"
       ],
       "count": 696,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 166105
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-anime",
@@ -95,9 +98,8 @@
         "series"
       ],
       "count": 1276,
-      "status": "delta",
-      "revision": 32,
-      "compressedBytes": 292784
+      "status": "unchanged",
+      "revision": 32
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -106,8 +108,9 @@
         "movies"
       ],
       "count": 8,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 1822
     },
     {
       "source": "https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/",
@@ -116,8 +119,9 @@
         "movies"
       ],
       "count": 305,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 37367
     },
     {
       "source": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
@@ -147,8 +151,9 @@
         "series"
       ],
       "count": 46,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 8324
     },
     {
       "source": "https://k8w4e.sbs/series-category/english-series-dubbed/",
@@ -167,8 +172,9 @@
         "anime"
       ],
       "count": 3,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 874
     },
     {
       "source": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
@@ -177,8 +183,9 @@
         "series"
       ],
       "count": 2,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 1194
     },
     {
       "source": "https://k8w4e.sbs/series-category/turkish-series-dubbed/",
@@ -230,8 +237,9 @@
         "series"
       ],
       "count": 1246,
-      "status": "unchanged",
-      "revision": 12
+      "status": "delta",
+      "revision": 13,
+      "compressedBytes": 255713
     },
     {
       "source": "https://ristoanime.me/",
@@ -240,8 +248,9 @@
         "anime"
       ],
       "count": 444,
-      "status": "unchanged",
-      "revision": 13
+      "status": "delta",
+      "revision": 14,
+      "compressedBytes": 181881
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -302,9 +311,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1930,
-      "status": "unchanged",
-      "revision": 9
+      "count": 1931,
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 506435
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -325,8 +335,9 @@
         "series"
       ],
       "count": 925,
-      "status": "unchanged",
-      "revision": 7
+      "status": "delta",
+      "revision": 8,
+      "compressedBytes": 359631
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
@@ -355,8 +366,9 @@
         "movies"
       ],
       "count": 423,
-      "status": "unchanged",
-      "revision": 2
+      "status": "delta",
+      "revision": 3,
+      "compressedBytes": 108513
     },
     {
       "source": "https://www.dima-toon.com/",
