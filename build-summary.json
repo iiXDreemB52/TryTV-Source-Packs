@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2512,
-  "canonicalCommit": "e58f67a3da49a0f80fa03be65f918ee7e5be8875",
-  "generatedAt": "2026-11-10T12:43:35.460Z",
+  "canonicalRevision": 2513,
+  "canonicalCommit": "bbd1bae5b508af09ded7110ca600982ab3c6f86d",
+  "generatedAt": "2026-11-10T13:13:36.483Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -218,8 +218,9 @@
         "manhwa"
       ],
       "count": 1314,
-      "status": "unchanged",
-      "revision": 71
+      "status": "delta",
+      "revision": 72,
+      "compressedBytes": 340524
     },
     {
       "source": "https://q4.shooflive.sbs/",
