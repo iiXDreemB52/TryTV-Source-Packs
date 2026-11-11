@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2630,
-  "canonicalCommit": "61abe95ee54e42e1eed49b0f3ff72f8aef36c97b",
-  "generatedAt": "2026-11-11T19:43:36.970Z",
+  "canonicalRevision": 2634,
+  "canonicalCommit": "50868e13191063d5b90f13387f7858898c2a5157",
+  "generatedAt": "2026-11-11T21:13:37.782Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 12,
   "excluded": 0,
   "entries": [
     {
@@ -24,8 +24,9 @@
         "anime"
       ],
       "count": 60,
-      "status": "unchanged",
-      "revision": 6
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 17613
     },
     {
       "source": "https://animezid.org/category.php?cat=disney-arabic",
@@ -54,8 +55,9 @@
         "series"
       ],
       "count": 23,
-      "status": "unchanged",
-      "revision": 6
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 6491
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-animation",
@@ -74,8 +76,9 @@
         "anime"
       ],
       "count": 89,
-      "status": "unchanged",
-      "revision": 14
+      "status": "delta",
+      "revision": 15,
+      "compressedBytes": 31399
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -85,8 +88,9 @@
         "series"
       ],
       "count": 66,
-      "status": "unchanged",
-      "revision": 9
+      "status": "delta",
+      "revision": 10,
+      "compressedBytes": 23710
     },
     {
       "source": "https://fussshaar.rest/",
@@ -94,10 +98,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1282,
+      "count": 1283,
       "status": "delta",
-      "revision": 53,
-      "compressedBytes": 299263
+      "revision": 54,
+      "compressedBytes": 299408
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -209,8 +213,9 @@
         "series"
       ],
       "count": 7466,
-      "status": "unchanged",
-      "revision": 39
+      "status": "delta",
+      "revision": 40,
+      "compressedBytes": 1274044
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +225,8 @@
       ],
       "count": 1315,
       "status": "delta",
-      "revision": 98,
-      "compressedBytes": 342042
+      "revision": 99,
+      "compressedBytes": 342026
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -272,9 +277,10 @@
         "movies",
         "series"
       ],
-      "count": 180,
-      "status": "unchanged",
-      "revision": 5
+      "count": 181,
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 32778
     },
     {
       "source": "https://stardima-ov.anime.com.im/aflam",
@@ -283,19 +289,20 @@
         "movies"
       ],
       "count": 1614,
-      "status": "unchanged",
-      "revision": 4
+      "status": "delta",
+      "revision": 5,
+      "compressedBytes": 425895
     },
     {
       "source": "https://stardima-ov.anime.com.im/mosalsalat",
       "name": "ستارديما",
       "kinds": [
-        "anime",
         "series"
       ],
       "count": 1604,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 397391
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
@@ -335,9 +342,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4089,
-      "status": "unchanged",
-      "revision": 21
+      "count": 4090,
+      "status": "delta",
+      "revision": 22,
+      "compressedBytes": 1078880
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
@@ -366,8 +374,9 @@
         "anime"
       ],
       "count": 190,
-      "status": "unchanged",
-      "revision": 5
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 62362
     }
   ]
 }
