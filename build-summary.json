@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2587,
-  "canonicalCommit": "43d2b3c1873c7941015cb4f347e1bdc4b0ea19c3",
-  "generatedAt": "2026-11-11T08:13:36.652Z",
+  "canonicalRevision": 2590,
+  "canonicalCommit": "587acf313eef6dca40a4c77f9d1c0177ff9b435f",
+  "generatedAt": "2026-11-11T08:43:36.198Z",
   "publishedSources": 35,
   "changed": 3,
   "excluded": 0,
@@ -15,8 +15,8 @@
       ],
       "count": 2387,
       "status": "delta",
-      "revision": 12,
-      "compressedBytes": 818301
+      "revision": 13,
+      "compressedBytes": 818297
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -208,10 +208,10 @@
         "movies",
         "series"
       ],
-      "count": 7441,
+      "count": 7453,
       "status": "delta",
-      "revision": 36,
-      "compressedBytes": 1271371
+      "revision": 37,
+      "compressedBytes": 1272658
     },
     {
       "source": "https://olympustaff.com/",
@@ -221,8 +221,8 @@
       ],
       "count": 1314,
       "status": "delta",
-      "revision": 87,
-      "compressedBytes": 341467
+      "revision": 88,
+      "compressedBytes": 341473
     },
     {
       "source": "https://q4.shooflive.sbs/",
