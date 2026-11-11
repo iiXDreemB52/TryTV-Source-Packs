@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2622,
-  "canonicalCommit": "fc48c22fbe6a97478fa2cec50ab5a7bc888583fd",
-  "generatedAt": "2026-11-11T16:43:36.950Z",
+  "canonicalRevision": 2625,
+  "canonicalCommit": "339b10c0fe2079873da8a3b2046789051e36f9b5",
+  "generatedAt": "2026-11-11T17:43:36.851Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -85,9 +85,8 @@
         "series"
       ],
       "count": 66,
-      "status": "delta",
-      "revision": 9,
-      "compressedBytes": 23809
+      "status": "unchanged",
+      "revision": 9
     },
     {
       "source": "https://fussshaar.rest/",
@@ -95,10 +94,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1281,
+      "count": 1282,
       "status": "delta",
-      "revision": 49,
-      "compressedBytes": 299011
+      "revision": 50,
+      "compressedBytes": 299186
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -198,9 +197,8 @@
         "manhwa"
       ],
       "count": 412,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 181491
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://laroza.garden/",
@@ -222,8 +220,8 @@
       ],
       "count": 1315,
       "status": "delta",
-      "revision": 94,
-      "compressedBytes": 341928
+      "revision": 95,
+      "compressedBytes": 341927
     },
     {
       "source": "https://q4.shooflive.sbs/",
