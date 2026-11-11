@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2595,
-  "canonicalCommit": "bba5425aadb51ca519ae8b2bc58817eee51f88a1",
-  "generatedAt": "2026-11-11T09:43:38.100Z",
+  "canonicalRevision": 2598,
+  "canonicalCommit": "8b0e423efca0c436e869bb20b258f4b7eb7805fb",
+  "generatedAt": "2026-11-11T10:43:38.231Z",
   "publishedSources": 35,
   "changed": 3,
   "excluded": 0,
@@ -15,7 +15,7 @@
       ],
       "count": 2387,
       "status": "delta",
-      "revision": 15,
+      "revision": 16,
       "compressedBytes": 818305
     },
     {
@@ -209,9 +209,8 @@
         "series"
       ],
       "count": 7466,
-      "status": "delta",
-      "revision": 39,
-      "compressedBytes": 1274019
+      "status": "unchanged",
+      "revision": 39
     },
     {
       "source": "https://olympustaff.com/",
@@ -221,8 +220,8 @@
       ],
       "count": 1315,
       "status": "delta",
-      "revision": 89,
-      "compressedBytes": 341776
+      "revision": 90,
+      "compressedBytes": 341775
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -304,9 +303,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1931,
-      "status": "unchanged",
-      "revision": 14
+      "count": 1932,
+      "status": "delta",
+      "revision": 15,
+      "compressedBytes": 511898
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
