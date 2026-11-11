@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2593,
-  "canonicalCommit": "fd71796adf4e2acbedf9201e61a8002be6d58608",
-  "generatedAt": "2026-11-11T09:13:35.141Z",
+  "canonicalRevision": 2595,
+  "canonicalCommit": "bba5425aadb51ca519ae8b2bc58817eee51f88a1",
+  "generatedAt": "2026-11-11T09:43:38.100Z",
   "publishedSources": 35,
   "changed": 3,
   "excluded": 0,
@@ -15,8 +15,8 @@
       ],
       "count": 2387,
       "status": "delta",
-      "revision": 14,
-      "compressedBytes": 818307
+      "revision": 15,
+      "compressedBytes": 818305
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -157,9 +157,8 @@
         "series"
       ],
       "count": 68,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 15962
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://k8w4e.sbs/series-category/korean-anime/",
@@ -209,10 +208,10 @@
         "movies",
         "series"
       ],
-      "count": 7465,
+      "count": 7466,
       "status": "delta",
-      "revision": 38,
-      "compressedBytes": 1273927
+      "revision": 39,
+      "compressedBytes": 1274019
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,9 +219,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1314,
-      "status": "unchanged",
-      "revision": 88
+      "count": 1315,
+      "status": "delta",
+      "revision": 89,
+      "compressedBytes": 341776
     },
     {
       "source": "https://q4.shooflive.sbs/",
