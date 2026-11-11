@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2604,
-  "canonicalCommit": "142aa4b4665ee87a7cf96b45fe659b4a61d3405c",
-  "generatedAt": "2026-11-11T12:13:38.407Z",
+  "canonicalRevision": 2610,
+  "canonicalCommit": "0028157e61307a38bdd12e81b42429f23ba63b1f",
+  "generatedAt": "2026-11-11T13:43:37.655Z",
   "publishedSources": 35,
   "changed": 5,
   "excluded": 0,
@@ -15,8 +15,8 @@
       ],
       "count": 2387,
       "status": "delta",
-      "revision": 18,
-      "compressedBytes": 818302
+      "revision": 19,
+      "compressedBytes": 818388
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -96,8 +96,9 @@
         "series"
       ],
       "count": 1277,
-      "status": "unchanged",
-      "revision": 45
+      "status": "delta",
+      "revision": 46,
+      "compressedBytes": 298213
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -157,9 +158,8 @@
         "series"
       ],
       "count": 69,
-      "status": "delta",
-      "revision": 7,
-      "compressedBytes": 16122
+      "status": "unchanged",
+      "revision": 7
     },
     {
       "source": "https://k8w4e.sbs/series-category/korean-anime/",
@@ -188,9 +188,8 @@
         "series"
       ],
       "count": 102,
-      "status": "delta",
-      "revision": 5,
-      "compressedBytes": 23843
+      "status": "unchanged",
+      "revision": 5
     },
     {
       "source": "https://kawaiimanga.org/browse",
@@ -221,9 +220,8 @@
         "manhwa"
       ],
       "count": 1315,
-      "status": "delta",
-      "revision": 91,
-      "compressedBytes": 341828
+      "status": "unchanged",
+      "revision": 91
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -243,8 +241,9 @@
         "anime"
       ],
       "count": 444,
-      "status": "unchanged",
-      "revision": 17
+      "status": "delta",
+      "revision": 18,
+      "compressedBytes": 183226
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -305,9 +304,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1932,
-      "status": "unchanged",
-      "revision": 16
+      "count": 1934,
+      "status": "delta",
+      "revision": 17,
+      "compressedBytes": 512586
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -339,8 +339,8 @@
       ],
       "count": 4089,
       "status": "delta",
-      "revision": 20,
-      "compressedBytes": 1078522
+      "revision": 21,
+      "compressedBytes": 1078611
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
