@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2621,
-  "canonicalCommit": "6b535a6f4905296bacff14b3f76d0a98c13fe711",
-  "generatedAt": "2026-11-11T16:13:36.790Z",
+  "canonicalRevision": 2622,
+  "canonicalCommit": "fc48c22fbe6a97478fa2cec50ab5a7bc888583fd",
+  "generatedAt": "2026-11-11T16:43:36.950Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 4,
   "excluded": 0,
   "entries": [
     {
@@ -85,8 +85,9 @@
         "series"
       ],
       "count": 66,
-      "status": "unchanged",
-      "revision": 8
+      "status": "delta",
+      "revision": 9,
+      "compressedBytes": 23809
     },
     {
       "source": "https://fussshaar.rest/",
@@ -96,8 +97,8 @@
       ],
       "count": 1281,
       "status": "delta",
-      "revision": 48,
-      "compressedBytes": 299003
+      "revision": 49,
+      "compressedBytes": 299011
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -198,8 +199,8 @@
       ],
       "count": 412,
       "status": "delta",
-      "revision": 10,
-      "compressedBytes": 181448
+      "revision": 11,
+      "compressedBytes": 181491
     },
     {
       "source": "https://laroza.garden/",
@@ -221,8 +222,8 @@
       ],
       "count": 1315,
       "status": "delta",
-      "revision": 93,
-      "compressedBytes": 341879
+      "revision": 94,
+      "compressedBytes": 341928
     },
     {
       "source": "https://q4.shooflive.sbs/",
