@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2637,
-  "canonicalCommit": "3bba2b47f01256b1d7c118572ad7ffa0d4a1afbb",
-  "generatedAt": "2026-11-11T22:13:37.720Z",
+  "canonicalRevision": 2641,
+  "canonicalCommit": "bd6be0c8ed58651e90fe06b5200b7b699bf6c52d",
+  "generatedAt": "2026-11-11T23:43:37.083Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -96,8 +96,8 @@
       ],
       "count": 1283,
       "status": "delta",
-      "revision": 55,
-      "compressedBytes": 299404
+      "revision": 56,
+      "compressedBytes": 299400
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -186,9 +186,10 @@
       "kinds": [
         "series"
       ],
-      "count": 102,
-      "status": "unchanged",
-      "revision": 5
+      "count": 103,
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 24100
     },
     {
       "source": "https://kawaiimanga.org/browse",
@@ -218,10 +219,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1315,
+      "count": 1316,
       "status": "delta",
-      "revision": 100,
-      "compressedBytes": 342023
+      "revision": 101,
+      "compressedBytes": 342326
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -335,9 +336,8 @@
         "movies"
       ],
       "count": 4090,
-      "status": "delta",
-      "revision": 23,
-      "compressedBytes": 1078929
+      "status": "unchanged",
+      "revision": 23
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
@@ -346,9 +346,8 @@
         "series"
       ],
       "count": 523,
-      "status": "delta",
-      "revision": 21,
-      "compressedBytes": 124619
+      "status": "unchanged",
+      "revision": 21
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
