@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2598,
-  "canonicalCommit": "8b0e423efca0c436e869bb20b258f4b7eb7805fb",
-  "generatedAt": "2026-11-11T10:43:38.231Z",
+  "canonicalRevision": 2600,
+  "canonicalCommit": "f55fc939f984a0ff2465e5d39e496d0c7693aaf2",
+  "generatedAt": "2026-11-11T11:13:37.474Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 4,
   "excluded": 0,
   "entries": [
     {
@@ -15,8 +15,8 @@
       ],
       "count": 2387,
       "status": "delta",
-      "revision": 16,
-      "compressedBytes": 818305
+      "revision": 17,
+      "compressedBytes": 818307
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -156,9 +156,10 @@
       "kinds": [
         "series"
       ],
-      "count": 68,
-      "status": "unchanged",
-      "revision": 5
+      "count": 69,
+      "status": "delta",
+      "revision": 6,
+      "compressedBytes": 16085
     },
     {
       "source": "https://k8w4e.sbs/series-category/korean-anime/",
@@ -219,9 +220,8 @@
         "manhwa"
       ],
       "count": 1315,
-      "status": "delta",
-      "revision": 90,
-      "compressedBytes": 341775
+      "status": "unchanged",
+      "revision": 90
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -231,8 +231,9 @@
         "series"
       ],
       "count": 1246,
-      "status": "unchanged",
-      "revision": 16
+      "status": "delta",
+      "revision": 17,
+      "compressedBytes": 257620
     },
     {
       "source": "https://ristoanime.me/",
@@ -305,8 +306,8 @@
       ],
       "count": 1932,
       "status": "delta",
-      "revision": 15,
-      "compressedBytes": 511898
+      "revision": 16,
+      "compressedBytes": 511964
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
