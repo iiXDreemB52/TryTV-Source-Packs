@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2578,
-  "canonicalCommit": "6581ff3d8c69b884e9b5b255c27a32a33d81f536",
-  "generatedAt": "2026-11-11T06:13:36.136Z",
+  "canonicalRevision": 2580,
+  "canonicalCommit": "9ad61bb6fe6e5e0e4073f9cd6000b2c90e9d0b66",
+  "generatedAt": "2026-11-11T06:43:36.277Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -207,10 +207,10 @@
         "movies",
         "series"
       ],
-      "count": 7394,
+      "count": 7406,
       "status": "delta",
-      "revision": 32,
-      "compressedBytes": 1266533
+      "revision": 33,
+      "compressedBytes": 1267842
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +220,8 @@
       ],
       "count": 1314,
       "status": "delta",
-      "revision": 85,
-      "compressedBytes": 341411
+      "revision": 86,
+      "compressedBytes": 341416
     },
     {
       "source": "https://q4.shooflive.sbs/",
