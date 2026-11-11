@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2584,
-  "canonicalCommit": "72f6d77fe4db32b6b9f86c63eef31ba166e2238c",
-  "generatedAt": "2026-11-11T07:43:36.288Z",
+  "canonicalRevision": 2587,
+  "canonicalCommit": "43d2b3c1873c7941015cb4f347e1bdc4b0ea19c3",
+  "generatedAt": "2026-11-11T08:13:36.652Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -14,8 +14,9 @@
         "anime"
       ],
       "count": 2387,
-      "status": "unchanged",
-      "revision": 11
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 818301
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -95,9 +96,8 @@
         "series"
       ],
       "count": 1277,
-      "status": "delta",
-      "revision": 45,
-      "compressedBytes": 298223
+      "status": "unchanged",
+      "revision": 45
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -208,10 +208,10 @@
         "movies",
         "series"
       ],
-      "count": 7429,
+      "count": 7441,
       "status": "delta",
-      "revision": 35,
-      "compressedBytes": 1270094
+      "revision": 36,
+      "compressedBytes": 1271371
     },
     {
       "source": "https://olympustaff.com/",
@@ -220,8 +220,9 @@
         "manhwa"
       ],
       "count": 1314,
-      "status": "unchanged",
-      "revision": 86
+      "status": "delta",
+      "revision": 87,
+      "compressedBytes": 341467
     },
     {
       "source": "https://q4.shooflive.sbs/",
