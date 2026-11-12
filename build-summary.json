@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2641,
-  "canonicalCommit": "bd6be0c8ed58651e90fe06b5200b7b699bf6c52d",
-  "generatedAt": "2026-11-11T23:43:37.083Z",
+  "canonicalRevision": 2643,
+  "canonicalCommit": "8fe6f20809a845021da402ba835103d0c7b401e7",
+  "generatedAt": "2026-11-12T00:13:34.695Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -95,9 +95,8 @@
         "series"
       ],
       "count": 1283,
-      "status": "delta",
-      "revision": 56,
-      "compressedBytes": 299400
+      "status": "unchanged",
+      "revision": 56
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -187,9 +186,8 @@
         "series"
       ],
       "count": 103,
-      "status": "delta",
-      "revision": 6,
-      "compressedBytes": 24100
+      "status": "unchanged",
+      "revision": 6
     },
     {
       "source": "https://kawaiimanga.org/browse",
@@ -220,9 +218,8 @@
         "manhwa"
       ],
       "count": 1316,
-      "status": "delta",
-      "revision": 101,
-      "compressedBytes": 342326
+      "status": "unchanged",
+      "revision": 101
     },
     {
       "source": "https://q4.shooflive.sbs/",
