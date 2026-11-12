@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2659,
-  "canonicalCommit": "e3184df56a37d47ece7a02c6537cef9aa3aa9e0a",
-  "generatedAt": "2026-11-12T11:43:35.207Z",
+  "canonicalRevision": 2660,
+  "canonicalCommit": "cb8d7ea52c6abe7c650f9db84f40514f2df1970e",
+  "generatedAt": "2026-11-12T12:13:35.091Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -301,9 +301,8 @@
         "series"
       ],
       "count": 1935,
-      "status": "delta",
-      "revision": 22,
-      "compressedBytes": 513223
+      "status": "unchanged",
+      "revision": 22
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -335,8 +334,8 @@
       ],
       "count": 4091,
       "status": "delta",
-      "revision": 24,
-      "compressedBytes": 1079165
+      "revision": 25,
+      "compressedBytes": 1079265
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
