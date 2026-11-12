@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2653,
-  "canonicalCommit": "ebfd2439c1fe173fb161234f72d69aa4749edebd",
-  "generatedAt": "2026-11-12T09:13:36.164Z",
+  "canonicalRevision": 2654,
+  "canonicalCommit": "7e737d292e9bf8f97201365a605b3542d1e4a8c4",
+  "generatedAt": "2026-11-12T09:43:34.807Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -187,8 +187,8 @@
       ],
       "count": 104,
       "status": "delta",
-      "revision": 7,
-      "compressedBytes": 24305
+      "revision": 8,
+      "compressedBytes": 24392
     },
     {
       "source": "https://kawaiimanga.org/browse",
