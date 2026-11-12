@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2646,
-  "canonicalCommit": "7c25dde9d001e0a42ce4be2313334c2d4fcbbf90",
-  "generatedAt": "2026-11-12T01:43:35.619Z",
+  "canonicalRevision": 2648,
+  "canonicalCommit": "6036172609707399e05370c9248e5d7aa3d31a97",
+  "generatedAt": "2026-11-12T02:43:35.190Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -219,8 +219,8 @@
       ],
       "count": 1316,
       "status": "delta",
-      "revision": 102,
-      "compressedBytes": 342380
+      "revision": 103,
+      "compressedBytes": 342383
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -301,9 +301,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1934,
-      "status": "unchanged",
-      "revision": 19
+      "count": 1935,
+      "status": "delta",
+      "revision": 20,
+      "compressedBytes": 513101
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -311,9 +312,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1828,
-      "status": "unchanged",
-      "revision": 27
+      "count": 1831,
+      "status": "delta",
+      "revision": 28,
+      "compressedBytes": 579610
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
