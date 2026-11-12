@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2651,
-  "canonicalCommit": "8fc5de74ee03d4d347524616639bcdad22b63363",
-  "generatedAt": "2026-11-12T04:43:34.808Z",
+  "canonicalRevision": 2653,
+  "canonicalCommit": "ebfd2439c1fe173fb161234f72d69aa4749edebd",
+  "generatedAt": "2026-11-12T09:13:36.164Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -185,9 +185,10 @@
       "kinds": [
         "series"
       ],
-      "count": 103,
-      "status": "unchanged",
-      "revision": 6
+      "count": 104,
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 24305
     },
     {
       "source": "https://kawaiimanga.org/browse",
@@ -311,9 +312,8 @@
         "series"
       ],
       "count": 1831,
-      "status": "delta",
-      "revision": 30,
-      "compressedBytes": 579771
+      "status": "unchanged",
+      "revision": 30
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
