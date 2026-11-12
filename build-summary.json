@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2660,
-  "canonicalCommit": "cb8d7ea52c6abe7c650f9db84f40514f2df1970e",
-  "generatedAt": "2026-11-12T12:13:35.091Z",
+  "canonicalRevision": 2661,
+  "canonicalCommit": "670d50e50ec2a23f43a0f9930cd6a021af4be3b5",
+  "generatedAt": "2026-11-12T12:43:35.826Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -332,10 +332,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4091,
+      "count": 4094,
       "status": "delta",
-      "revision": 25,
-      "compressedBytes": 1079265
+      "revision": 26,
+      "compressedBytes": 1080079
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
