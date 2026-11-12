@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2666,
-  "canonicalCommit": "12ec0653dfbce5d876ea9f5c5816524886c4353d",
-  "generatedAt": "2026-11-12T13:43:35.928Z",
+  "canonicalRevision": 2672,
+  "canonicalCommit": "066b05742db5ee54b1a8a084a64c0a974d3d202f",
+  "generatedAt": "2026-11-12T15:43:36.082Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 6,
   "excluded": 0,
   "entries": [
     {
@@ -74,8 +74,9 @@
         "anime"
       ],
       "count": 89,
-      "status": "unchanged",
-      "revision": 15
+      "status": "delta",
+      "revision": 16,
+      "compressedBytes": 31396
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -95,8 +96,9 @@
         "series"
       ],
       "count": 1283,
-      "status": "unchanged",
-      "revision": 56
+      "status": "delta",
+      "revision": 57,
+      "compressedBytes": 299436
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -219,8 +221,8 @@
       ],
       "count": 1316,
       "status": "delta",
-      "revision": 107,
-      "compressedBytes": 342379
+      "revision": 108,
+      "compressedBytes": 342440
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -229,9 +231,10 @@
         "movies",
         "series"
       ],
-      "count": 1246,
-      "status": "unchanged",
-      "revision": 17
+      "count": 1247,
+      "status": "delta",
+      "revision": 18,
+      "compressedBytes": 257968
     },
     {
       "source": "https://ristoanime.me/",
@@ -302,8 +305,9 @@
         "series"
       ],
       "count": 1935,
-      "status": "unchanged",
-      "revision": 22
+      "status": "delta",
+      "revision": 23,
+      "compressedBytes": 513306
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -313,8 +317,8 @@
       ],
       "count": 1832,
       "status": "delta",
-      "revision": 31,
-      "compressedBytes": 580059
+      "revision": 32,
+      "compressedBytes": 580032
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -335,9 +339,8 @@
         "movies"
       ],
       "count": 4094,
-      "status": "delta",
-      "revision": 27,
-      "compressedBytes": 1080271
+      "status": "unchanged",
+      "revision": 27
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
