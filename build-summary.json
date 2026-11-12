@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2648,
-  "canonicalCommit": "6036172609707399e05370c9248e5d7aa3d31a97",
-  "generatedAt": "2026-11-12T02:43:35.190Z",
+  "canonicalRevision": 2649,
+  "canonicalCommit": "0db97b1c8d2072dd7585b51cb482ead966481947",
+  "generatedAt": "2026-11-12T03:13:34.896Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -218,9 +218,8 @@
         "manhwa"
       ],
       "count": 1316,
-      "status": "delta",
-      "revision": 103,
-      "compressedBytes": 342383
+      "status": "unchanged",
+      "revision": 103
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -303,8 +302,8 @@
       ],
       "count": 1935,
       "status": "delta",
-      "revision": 20,
-      "compressedBytes": 513101
+      "revision": 21,
+      "compressedBytes": 513146
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -314,8 +313,8 @@
       ],
       "count": 1831,
       "status": "delta",
-      "revision": 28,
-      "compressedBytes": 579610
+      "revision": 29,
+      "compressedBytes": 579769
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
