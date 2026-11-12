@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2656,
-  "canonicalCommit": "09ef7366dd9f5e9551a26b98d2e7e00a5394906e",
-  "generatedAt": "2026-11-12T10:43:34.941Z",
+  "canonicalRevision": 2657,
+  "canonicalCommit": "068b290955b974ddc4508834fb48f9ed21e362ce",
+  "generatedAt": "2026-11-12T11:13:35.044Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -219,8 +219,8 @@
       ],
       "count": 1316,
       "status": "delta",
-      "revision": 105,
-      "compressedBytes": 342384
+      "revision": 106,
+      "compressedBytes": 342383
     },
     {
       "source": "https://q4.shooflive.sbs/",
