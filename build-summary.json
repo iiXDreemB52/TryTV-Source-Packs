@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2679,
-  "canonicalCommit": "ab4b483b8b037fee1855a19f0ce4ad5cbc68d182",
-  "generatedAt": "2026-11-13T20:21:09.683Z",
+  "canonicalRevision": 2683,
+  "canonicalCommit": "d4e0de84ceec1a680dfb26940096f09ce56462a2",
+  "generatedAt": "2026-11-13T21:20:10.543Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 5,
   "excluded": 0,
   "entries": [
     {
@@ -74,8 +74,9 @@
         "anime"
       ],
       "count": 89,
-      "status": "unchanged",
-      "revision": 16
+      "status": "delta",
+      "revision": 17,
+      "compressedBytes": 31391
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -96,8 +97,8 @@
       ],
       "count": 1286,
       "status": "delta",
-      "revision": 62,
-      "compressedBytes": 299803
+      "revision": 63,
+      "compressedBytes": 299831
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -220,8 +221,8 @@
       ],
       "count": 1316,
       "status": "delta",
-      "revision": 110,
-      "compressedBytes": 342476
+      "revision": 111,
+      "compressedBytes": 342478
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -272,9 +273,10 @@
         "movies",
         "series"
       ],
-      "count": 181,
-      "status": "unchanged",
-      "revision": 6
+      "count": 182,
+      "status": "delta",
+      "revision": 7,
+      "compressedBytes": 32995
     },
     {
       "source": "https://stardima-ov.anime.com.im/aflam",
@@ -345,8 +347,9 @@
         "series"
       ],
       "count": 523,
-      "status": "unchanged",
-      "revision": 21
+      "status": "delta",
+      "revision": 22,
+      "compressedBytes": 124616
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
