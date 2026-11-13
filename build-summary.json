@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2673,
-  "canonicalCommit": "6ce920d34b1e996862ac7e4fbf1f54aed2365ca9",
-  "generatedAt": "2026-11-13T13:59:19.476Z",
+  "canonicalRevision": 2674,
+  "canonicalCommit": "92a316b1b4a32ab56deac3b27a50348e1eb0c269",
+  "generatedAt": "2026-11-13T19:17:10.815Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 6,
   "excluded": 0,
   "entries": [
     {
@@ -94,9 +94,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1283,
-      "status": "unchanged",
-      "revision": 58
+      "count": 1286,
+      "status": "delta",
+      "revision": 59,
+      "compressedBytes": 299784
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -195,9 +196,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 412,
-      "status": "unchanged",
-      "revision": 11
+      "count": 413,
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 181921
     },
     {
       "source": "https://laroza.garden/",
@@ -218,8 +220,9 @@
         "manhwa"
       ],
       "count": 1316,
-      "status": "unchanged",
-      "revision": 108
+      "status": "delta",
+      "revision": 109,
+      "compressedBytes": 342437
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -300,9 +303,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1935,
-      "status": "unchanged",
-      "revision": 23
+      "count": 1939,
+      "status": "delta",
+      "revision": 24,
+      "compressedBytes": 514404
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -310,9 +314,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1832,
-      "status": "unchanged",
-      "revision": 32
+      "count": 1836,
+      "status": "delta",
+      "revision": 33,
+      "compressedBytes": 581023
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -332,9 +337,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4094,
-      "status": "unchanged",
-      "revision": 27
+      "count": 4099,
+      "status": "delta",
+      "revision": 28,
+      "compressedBytes": 1081802
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
