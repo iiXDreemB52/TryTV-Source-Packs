@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2756,
-  "canonicalCommit": "64acb180758ae17782638b5c611fece92e5fe041",
-  "generatedAt": "2026-11-14T17:22:18.385Z",
+  "canonicalRevision": 2757,
+  "canonicalCommit": "7e3a0be67397e66f818b6291f6ce9f8232d0e785",
+  "generatedAt": "2026-11-14T17:44:18.993Z",
   "publishedSources": 35,
-  "changed": 5,
+  "changed": 2,
   "excluded": 0,
   "entries": [
     {
@@ -15,8 +15,8 @@
       ],
       "count": 2398,
       "status": "delta",
-      "revision": 50,
-      "compressedBytes": 824522
+      "revision": 51,
+      "compressedBytes": 824577
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -86,9 +86,8 @@
         "series"
       ],
       "count": 71,
-      "status": "delta",
-      "revision": 12,
-      "compressedBytes": 24550
+      "status": "unchanged",
+      "revision": 12
     },
     {
       "source": "https://fussshaar.rest/",
@@ -98,8 +97,8 @@
       ],
       "count": 1288,
       "status": "delta",
-      "revision": 71,
-      "compressedBytes": 300110
+      "revision": 72,
+      "compressedBytes": 300175
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -221,9 +220,8 @@
         "manhwa"
       ],
       "count": 1318,
-      "status": "delta",
-      "revision": 114,
-      "compressedBytes": 343141
+      "status": "unchanged",
+      "revision": 114
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -243,9 +241,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 27,
-      "compressedBytes": 183239
+      "status": "unchanged",
+      "revision": 27
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
