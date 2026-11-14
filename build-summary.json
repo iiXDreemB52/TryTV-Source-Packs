@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2732,
-  "canonicalCommit": "b17cdaead71299633709e5df60418de94557874b",
-  "generatedAt": "2026-11-14T11:50:51.150Z",
+  "canonicalRevision": 2733,
+  "canonicalCommit": "410dbc8d0eaa5ca074b48335694ac900f58ec54d",
+  "generatedAt": "2026-11-14T12:16:50.872Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 4,
   "excluded": 0,
   "entries": [
     {
@@ -15,8 +15,8 @@
       ],
       "count": 2395,
       "status": "delta",
-      "revision": 39,
-      "compressedBytes": 822926
+      "revision": 40,
+      "compressedBytes": 822923
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -75,8 +75,9 @@
         "anime"
       ],
       "count": 89,
-      "status": "unchanged",
-      "revision": 17
+      "status": "delta",
+      "revision": 18,
+      "compressedBytes": 31394
     },
     {
       "source": "https://animezid.org/category.php?cat=spacetoon",
@@ -197,8 +198,9 @@
         "manhwa"
       ],
       "count": 413,
-      "status": "unchanged",
-      "revision": 27
+      "status": "delta",
+      "revision": 28,
+      "compressedBytes": 183326
     },
     {
       "source": "https://laroza.garden/",
@@ -210,8 +212,8 @@
       ],
       "count": 7479,
       "status": "delta",
-      "revision": 59,
-      "compressedBytes": 1281260
+      "revision": 60,
+      "compressedBytes": 1281340
     },
     {
       "source": "https://olympustaff.com/",
