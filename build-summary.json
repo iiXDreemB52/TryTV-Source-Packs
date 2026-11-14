@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2754,
-  "canonicalCommit": "52e40bd37b3c440f3a274f0c89687ae41fe4c6f9",
-  "generatedAt": "2026-11-14T16:43:19.624Z",
+  "canonicalRevision": 2756,
+  "canonicalCommit": "64acb180758ae17782638b5c611fece92e5fe041",
+  "generatedAt": "2026-11-14T17:22:18.385Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 5,
   "excluded": 0,
   "entries": [
     {
@@ -15,8 +15,8 @@
       ],
       "count": 2398,
       "status": "delta",
-      "revision": 49,
-      "compressedBytes": 824423
+      "revision": 50,
+      "compressedBytes": 824522
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -86,8 +86,9 @@
         "series"
       ],
       "count": 71,
-      "status": "unchanged",
-      "revision": 11
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 24550
     },
     {
       "source": "https://fussshaar.rest/",
@@ -96,8 +97,9 @@
         "series"
       ],
       "count": 1288,
-      "status": "unchanged",
-      "revision": 70
+      "status": "delta",
+      "revision": 71,
+      "compressedBytes": 300110
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -218,9 +220,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1317,
-      "status": "unchanged",
-      "revision": 113
+      "count": 1318,
+      "status": "delta",
+      "revision": 114,
+      "compressedBytes": 343141
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -230,9 +233,8 @@
         "series"
       ],
       "count": 1251,
-      "status": "delta",
-      "revision": 20,
-      "compressedBytes": 258459
+      "status": "unchanged",
+      "revision": 20
     },
     {
       "source": "https://ristoanime.me/",
@@ -241,8 +243,9 @@
         "anime"
       ],
       "count": 444,
-      "status": "unchanged",
-      "revision": 26
+      "status": "delta",
+      "revision": 27,
+      "compressedBytes": 183239
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
