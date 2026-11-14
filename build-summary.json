@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2713,
-  "canonicalCommit": "d45dc69914216b96b0574980f3106eba2e2d77d3",
-  "generatedAt": "2026-11-14T05:42:51.986Z",
+  "canonicalRevision": 2714,
+  "canonicalCommit": "2e7ed7388eae36f892c03f17078c51b32052084c",
+  "generatedAt": "2026-11-14T05:46:48.691Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -14,8 +14,9 @@
         "anime"
       ],
       "count": 2395,
-      "status": "unchanged",
-      "revision": 27
+      "status": "delta",
+      "revision": 28,
+      "compressedBytes": 822759
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -208,9 +209,8 @@
         "series"
       ],
       "count": 7479,
-      "status": "delta",
-      "revision": 47,
-      "compressedBytes": 1279206
+      "status": "unchanged",
+      "revision": 47
     },
     {
       "source": "https://olympustaff.com/",
@@ -240,9 +240,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 21,
-      "compressedBytes": 183263
+      "status": "unchanged",
+      "revision": 21
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
