@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2747,
-  "canonicalCommit": "1f42eadad49150098b2baa3619f3c39c3275d231",
-  "generatedAt": "2026-11-14T15:17:20.777Z",
+  "canonicalRevision": 2749,
+  "canonicalCommit": "14925349540c9259a10fbb02fbc239e166442042",
+  "generatedAt": "2026-11-14T15:41:22.296Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 6,
   "excluded": 0,
   "entries": [
     {
@@ -14,8 +14,9 @@
         "anime"
       ],
       "count": 2398,
-      "status": "unchanged",
-      "revision": 46
+      "status": "delta",
+      "revision": 47,
+      "compressedBytes": 824369
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -95,8 +96,9 @@
         "series"
       ],
       "count": 1288,
-      "status": "unchanged",
-      "revision": 68
+      "status": "delta",
+      "revision": 69,
+      "compressedBytes": 300123
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -196,8 +198,9 @@
         "manhwa"
       ],
       "count": 414,
-      "status": "unchanged",
-      "revision": 31
+      "status": "delta",
+      "revision": 32,
+      "compressedBytes": 183924
     },
     {
       "source": "https://laroza.garden/",
@@ -208,8 +211,9 @@
         "series"
       ],
       "count": 7479,
-      "status": "unchanged",
-      "revision": 62
+      "status": "delta",
+      "revision": 63,
+      "compressedBytes": 1281557
     },
     {
       "source": "https://olympustaff.com/",
@@ -301,8 +305,9 @@
         "series"
       ],
       "count": 1939,
-      "status": "unchanged",
-      "revision": 26
+      "status": "delta",
+      "revision": 27,
+      "compressedBytes": 514744
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -333,8 +338,9 @@
         "movies"
       ],
       "count": 4101,
-      "status": "unchanged",
-      "revision": 32
+      "status": "delta",
+      "revision": 33,
+      "compressedBytes": 1082894
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
