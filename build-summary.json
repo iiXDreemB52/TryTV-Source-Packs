@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2740,
-  "canonicalCommit": "469b0ca8ec9c3792b710e3b5ca1fc119e586fdac",
-  "generatedAt": "2026-11-14T13:46:51.516Z",
+  "canonicalRevision": 2741,
+  "canonicalCommit": "6b896fb93b72093622447845f2ef27c6093e908f",
+  "generatedAt": "2026-11-14T14:13:39.254Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2395,
-      "status": "delta",
-      "revision": 43,
-      "compressedBytes": 823088
+      "status": "unchanged",
+      "revision": 43
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -240,9 +239,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 26,
-      "compressedBytes": 183172
+      "status": "unchanged",
+      "revision": 26
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -334,9 +332,10 @@
       "kinds": [
         "movies"
       ],
-      "count": 4099,
-      "status": "unchanged",
-      "revision": 29
+      "count": 4100,
+      "status": "delta",
+      "revision": 30,
+      "compressedBytes": 1082421
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
