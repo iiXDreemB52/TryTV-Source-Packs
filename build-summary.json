@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2757,
-  "canonicalCommit": "7e3a0be67397e66f818b6291f6ce9f8232d0e785",
-  "generatedAt": "2026-11-14T17:44:18.993Z",
+  "canonicalRevision": 2758,
+  "canonicalCommit": "6ed76d45a5188efcc36b332546f42add97247cd5",
+  "generatedAt": "2026-11-14T17:59:19.391Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2398,
-      "status": "delta",
-      "revision": 51,
-      "compressedBytes": 824577
+      "status": "unchanged",
+      "revision": 51
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -96,9 +95,8 @@
         "series"
       ],
       "count": 1288,
-      "status": "delta",
-      "revision": 72,
-      "compressedBytes": 300175
+      "status": "unchanged",
+      "revision": 72
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
