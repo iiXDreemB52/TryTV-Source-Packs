@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2725,
-  "canonicalCommit": "98b4bd874104f3be69cfbe373e5f6a911449f440",
-  "generatedAt": "2026-11-14T09:43:37.996Z",
+  "canonicalRevision": 2727,
+  "canonicalCommit": "91074adab6930752d1519959e259ee9900cf5c4b",
+  "generatedAt": "2026-11-14T09:51:49.884Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 3,
   "excluded": 0,
   "entries": [
     {
@@ -14,8 +14,9 @@
         "anime"
       ],
       "count": 2395,
-      "status": "unchanged",
-      "revision": 34
+      "status": "delta",
+      "revision": 35,
+      "compressedBytes": 822843
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -95,8 +96,9 @@
         "series"
       ],
       "count": 1288,
-      "status": "unchanged",
-      "revision": 65
+      "status": "delta",
+      "revision": 66,
+      "compressedBytes": 300074
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -208,8 +210,9 @@
         "series"
       ],
       "count": 7479,
-      "status": "unchanged",
-      "revision": 54
+      "status": "delta",
+      "revision": 55,
+      "compressedBytes": 1280621
     },
     {
       "source": "https://olympustaff.com/",
