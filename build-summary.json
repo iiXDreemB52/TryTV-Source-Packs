@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2706,
-  "canonicalCommit": "7e338f3f9e4f7d312e580ee17e48cec66ddd0157",
-  "generatedAt": "2026-11-14T03:51:49.814Z",
+  "canonicalRevision": 2708,
+  "canonicalCommit": "f80ac283e794204583c00a4d0f842763cc6a0c39",
+  "generatedAt": "2026-11-14T04:26:54.465Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 4,
   "excluded": 0,
   "entries": [
     {
@@ -15,8 +15,8 @@
       ],
       "count": 2395,
       "status": "delta",
-      "revision": 24,
-      "compressedBytes": 822758
+      "revision": 25,
+      "compressedBytes": 822748
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -198,8 +198,8 @@
       ],
       "count": 413,
       "status": "delta",
-      "revision": 18,
-      "compressedBytes": 182786
+      "revision": 19,
+      "compressedBytes": 182790
     },
     {
       "source": "https://laroza.garden/",
@@ -211,8 +211,8 @@
       ],
       "count": 7477,
       "status": "delta",
-      "revision": 43,
-      "compressedBytes": 1277886
+      "revision": 44,
+      "compressedBytes": 1278097
     },
     {
       "source": "https://olympustaff.com/",
@@ -326,8 +326,9 @@
         "series"
       ],
       "count": 925,
-      "status": "unchanged",
-      "revision": 11
+      "status": "delta",
+      "revision": 12,
+      "compressedBytes": 362717
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
