@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2758,
-  "canonicalCommit": "6ed76d45a5188efcc36b332546f42add97247cd5",
-  "generatedAt": "2026-11-14T17:59:19.391Z",
+  "canonicalRevision": 2759,
+  "canonicalCommit": "206c758e9afe5e8f0dc6fcdc562083c0017610fc",
+  "generatedAt": "2026-11-14T18:16:19.363Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -239,8 +239,9 @@
         "anime"
       ],
       "count": 444,
-      "status": "unchanged",
-      "revision": 27
+      "status": "delta",
+      "revision": 28,
+      "compressedBytes": 183245
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
