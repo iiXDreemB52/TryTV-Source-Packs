@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2693,
-  "canonicalCommit": "d799747e70d961c18e62cdb530bc99944bc4137a",
-  "generatedAt": "2026-11-14T01:43:35.742Z",
+  "canonicalRevision": 2694,
+  "canonicalCommit": "ec55ec29eb9468d3487aee2fe1b969069f216a65",
+  "generatedAt": "2026-11-14T02:13:36.886Z",
   "publishedSources": 35,
-  "changed": 6,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -15,8 +15,8 @@
       ],
       "count": 2395,
       "status": "delta",
-      "revision": 20,
-      "compressedBytes": 821982
+      "revision": 21,
+      "compressedBytes": 822688
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -86,9 +86,8 @@
         "series"
       ],
       "count": 71,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 24546
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://fussshaar.rest/",
@@ -97,9 +96,8 @@
         "series"
       ],
       "count": 1288,
-      "status": "delta",
-      "revision": 64,
-      "compressedBytes": 300077
+      "status": "unchanged",
+      "revision": 64
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -199,9 +197,8 @@
         "manhwa"
       ],
       "count": 413,
-      "status": "delta",
-      "revision": 15,
-      "compressedBytes": 182486
+      "status": "unchanged",
+      "revision": 15
     },
     {
       "source": "https://laroza.garden/",
@@ -243,9 +240,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 20,
-      "compressedBytes": 183237
+      "status": "unchanged",
+      "revision": 20
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -328,9 +324,8 @@
         "series"
       ],
       "count": 925,
-      "status": "delta",
-      "revision": 11,
-      "compressedBytes": 362709
+      "status": "unchanged",
+      "revision": 11
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
