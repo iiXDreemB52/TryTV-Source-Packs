@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2741,
-  "canonicalCommit": "6b896fb93b72093622447845f2ef27c6093e908f",
-  "generatedAt": "2026-11-14T14:13:39.254Z",
+  "canonicalRevision": 2742,
+  "canonicalCommit": "a98b692decb8fe82a4b8b40ff9982a656bab66ae",
+  "generatedAt": "2026-11-14T14:16:50.330Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -14,8 +14,9 @@
         "anime"
       ],
       "count": 2395,
-      "status": "unchanged",
-      "revision": 43
+      "status": "delta",
+      "revision": 44,
+      "compressedBytes": 823098
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -333,9 +334,8 @@
         "movies"
       ],
       "count": 4100,
-      "status": "delta",
-      "revision": 30,
-      "compressedBytes": 1082421
+      "status": "unchanged",
+      "revision": 30
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
