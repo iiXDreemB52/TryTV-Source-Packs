@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2738,
-  "canonicalCommit": "3da5c7e22571c695307c35989fd643af254c2c6c",
-  "generatedAt": "2026-11-14T13:19:47.890Z",
+  "canonicalRevision": 2739,
+  "canonicalCommit": "05c57c5e9ef23da6c70b43fa35f772c1e01060a4",
+  "generatedAt": "2026-11-14T13:37:59.056Z",
   "publishedSources": 35,
-  "changed": 0,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -196,8 +196,9 @@
         "manhwa"
       ],
       "count": 414,
-      "status": "unchanged",
-      "revision": 30
+      "status": "delta",
+      "revision": 31,
+      "compressedBytes": 183877
     },
     {
       "source": "https://laroza.garden/",
