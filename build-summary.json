@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2686,
-  "canonicalCommit": "7bc5b757af03b497a0f35cdf70a7ee79d7c3308a",
-  "generatedAt": "2026-11-13T23:42:10.089Z",
+  "canonicalRevision": 2687,
+  "canonicalCommit": "e7ff032d109f309da20c7ed5821fd7c0e2ae327a",
+  "generatedAt": "2026-11-14T00:23:10.284Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -196,8 +196,9 @@
         "manhwa"
       ],
       "count": 413,
-      "status": "unchanged",
-      "revision": 13
+      "status": "delta",
+      "revision": 14,
+      "compressedBytes": 182241
     },
     {
       "source": "https://laroza.garden/",
@@ -218,9 +219,8 @@
         "manhwa"
       ],
       "count": 1317,
-      "status": "delta",
-      "revision": 113,
-      "compressedBytes": 342794
+      "status": "unchanged",
+      "revision": 113
     },
     {
       "source": "https://q4.shooflive.sbs/",
