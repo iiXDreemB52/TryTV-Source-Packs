@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2752,
-  "canonicalCommit": "7e5ef0b34bf88598a9f3d0fbd4664fc392a20bad",
-  "generatedAt": "2026-11-14T16:17:18.130Z",
+  "canonicalRevision": 2753,
+  "canonicalCommit": "74c6fa289245067e908b7aac56d01e07c62be542",
+  "generatedAt": "2026-11-14T16:42:23.857Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 1,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2398,
-      "status": "delta",
-      "revision": 48,
-      "compressedBytes": 824368
+      "status": "unchanged",
+      "revision": 48
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -96,9 +95,8 @@
         "series"
       ],
       "count": 1288,
-      "status": "delta",
-      "revision": 70,
-      "compressedBytes": 300114
+      "status": "unchanged",
+      "revision": 70
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -198,9 +196,8 @@
         "manhwa"
       ],
       "count": 414,
-      "status": "delta",
-      "revision": 33,
-      "compressedBytes": 183981
+      "status": "unchanged",
+      "revision": 33
     },
     {
       "source": "https://laroza.garden/",
@@ -337,8 +334,8 @@
       ],
       "count": 4102,
       "status": "delta",
-      "revision": 34,
-      "compressedBytes": 1083117
+      "revision": 35,
+      "compressedBytes": 1083168
     },
     {
       "source": "https://ww4.3ick.club/genre/series-mudablij-121/",
