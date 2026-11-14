@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2725,
-  "canonicalCommit": "4dddff33786e6bbb310fa5077d354605835723ad",
-  "generatedAt": "2026-11-14T09:17:48.627Z",
+  "canonicalCommit": "98b4bd874104f3be69cfbe373e5f6a911449f440",
+  "generatedAt": "2026-11-14T09:43:37.996Z",
   "publishedSources": 35,
-  "changed": 4,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2395,
-      "status": "delta",
-      "revision": 34,
-      "compressedBytes": 822850
+      "status": "unchanged",
+      "revision": 34
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -96,9 +95,8 @@
         "series"
       ],
       "count": 1288,
-      "status": "delta",
-      "revision": 65,
-      "compressedBytes": 300072
+      "status": "unchanged",
+      "revision": 65
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -198,9 +196,8 @@
         "manhwa"
       ],
       "count": 413,
-      "status": "delta",
-      "revision": 25,
-      "compressedBytes": 183187
+      "status": "unchanged",
+      "revision": 25
     },
     {
       "source": "https://laroza.garden/",
@@ -211,9 +208,8 @@
         "series"
       ],
       "count": 7479,
-      "status": "delta",
-      "revision": 54,
-      "compressedBytes": 1280427
+      "status": "unchanged",
+      "revision": 54
     },
     {
       "source": "https://olympustaff.com/",
