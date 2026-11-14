@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2687,
-  "canonicalCommit": "e7ff032d109f309da20c7ed5821fd7c0e2ae327a",
-  "generatedAt": "2026-11-14T00:23:10.284Z",
+  "canonicalRevision": 2693,
+  "canonicalCommit": "d799747e70d961c18e62cdb530bc99944bc4137a",
+  "generatedAt": "2026-11-14T01:43:35.742Z",
   "publishedSources": 35,
-  "changed": 1,
+  "changed": 6,
   "excluded": 0,
   "entries": [
     {
@@ -13,9 +13,10 @@
       "kinds": [
         "anime"
       ],
-      "count": 2387,
-      "status": "unchanged",
-      "revision": 19
+      "count": 2395,
+      "status": "delta",
+      "revision": 20,
+      "compressedBytes": 821982
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -84,9 +85,10 @@
         "anime",
         "series"
       ],
-      "count": 66,
-      "status": "unchanged",
-      "revision": 10
+      "count": 71,
+      "status": "delta",
+      "revision": 11,
+      "compressedBytes": 24546
     },
     {
       "source": "https://fussshaar.rest/",
@@ -94,9 +96,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1286,
-      "status": "unchanged",
-      "revision": 63
+      "count": 1288,
+      "status": "delta",
+      "revision": 64,
+      "compressedBytes": 300077
     },
     {
       "source": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -197,8 +200,8 @@
       ],
       "count": 413,
       "status": "delta",
-      "revision": 14,
-      "compressedBytes": 182241
+      "revision": 15,
+      "compressedBytes": 182486
     },
     {
       "source": "https://laroza.garden/",
@@ -240,8 +243,9 @@
         "anime"
       ],
       "count": 444,
-      "status": "unchanged",
-      "revision": 19
+      "status": "delta",
+      "revision": 20,
+      "compressedBytes": 183237
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -324,8 +328,9 @@
         "series"
       ],
       "count": 925,
-      "status": "unchanged",
-      "revision": 10
+      "status": "delta",
+      "revision": 11,
+      "compressedBytes": 362709
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
