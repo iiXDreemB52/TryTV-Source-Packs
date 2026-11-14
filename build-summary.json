@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2730,
-  "canonicalCommit": "bf76ba59c07713f8ccb1be8036c7c2631500e98f",
-  "generatedAt": "2026-11-14T11:15:49.748Z",
+  "canonicalRevision": 2732,
+  "canonicalCommit": "b17cdaead71299633709e5df60418de94557874b",
+  "generatedAt": "2026-11-14T11:50:51.150Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -15,8 +15,8 @@
       ],
       "count": 2395,
       "status": "delta",
-      "revision": 38,
-      "compressedBytes": 822929
+      "revision": 39,
+      "compressedBytes": 822926
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -210,8 +210,8 @@
       ],
       "count": 7479,
       "status": "delta",
-      "revision": 58,
-      "compressedBytes": 1281188
+      "revision": 59,
+      "compressedBytes": 1281260
     },
     {
       "source": "https://olympustaff.com/",
