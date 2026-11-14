@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2759,
-  "canonicalCommit": "206c758e9afe5e8f0dc6fcdc562083c0017610fc",
-  "generatedAt": "2026-11-14T18:16:19.363Z",
+  "canonicalRevision": 2760,
+  "canonicalCommit": "e4449e04db6ff1b0dfeb338d142567e5c8f8d685",
+  "generatedAt": "2026-11-14T18:43:20.355Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -239,9 +239,8 @@
         "anime"
       ],
       "count": 444,
-      "status": "delta",
-      "revision": 28,
-      "compressedBytes": 183245
+      "status": "unchanged",
+      "revision": 28
     },
     {
       "source": "https://sa.t4an.net/moslslat.php",
@@ -311,9 +310,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1836,
-      "status": "unchanged",
-      "revision": 36
+      "count": 1837,
+      "status": "delta",
+      "revision": 37,
+      "compressedBytes": 581547
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
