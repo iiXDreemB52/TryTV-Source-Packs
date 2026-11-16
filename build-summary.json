@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "canonicalRevision": 2761,
-  "canonicalCommit": "09acb9ddbd32983a0f57775b9aeb12efe202b379",
-  "generatedAt": "2026-11-14T18:46:24.155Z",
+  "canonicalRevision": 2762,
+  "canonicalCommit": "34a4199dead8cd26f4886c2d2f7b9e94ab2b2731",
+  "generatedAt": "2026-11-16T02:38:21.512Z",
   "publishedSources": 35,
-  "changed": 3,
+  "changed": 7,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2398,
-      "status": "delta",
-      "revision": 52,
-      "compressedBytes": 824766
+      "status": "unchanged",
+      "revision": 52
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -65,8 +64,9 @@
         "movies"
       ],
       "count": 696,
-      "status": "unchanged",
-      "revision": 4
+      "status": "delta",
+      "revision": 5,
+      "compressedBytes": 175770
     },
     {
       "source": "https://animezid.org/category.php?cat=dubbed-anime",
@@ -85,9 +85,10 @@
         "anime",
         "series"
       ],
-      "count": 71,
-      "status": "unchanged",
-      "revision": 12
+      "count": 72,
+      "status": "delta",
+      "revision": 13,
+      "compressedBytes": 24825
     },
     {
       "source": "https://fussshaar.rest/",
@@ -196,10 +197,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 414,
+      "count": 417,
       "status": "delta",
-      "revision": 34,
-      "compressedBytes": 184039
+      "revision": 35,
+      "compressedBytes": 185749
     },
     {
       "source": "https://laroza.garden/",
@@ -219,9 +220,10 @@
       "kinds": [
         "manhwa"
       ],
-      "count": 1318,
-      "status": "unchanged",
-      "revision": 114
+      "count": 1322,
+      "status": "delta",
+      "revision": 115,
+      "compressedBytes": 344423
     },
     {
       "source": "https://q4.shooflive.sbs/",
@@ -302,10 +304,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1939,
+      "count": 1940,
       "status": "delta",
-      "revision": 28,
-      "compressedBytes": 514802
+      "revision": 29,
+      "compressedBytes": 515089
     },
     {
       "source": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
@@ -313,9 +315,10 @@
       "kinds": [
         "series"
       ],
-      "count": 1837,
-      "status": "unchanged",
-      "revision": 37
+      "count": 1840,
+      "status": "delta",
+      "revision": 38,
+      "compressedBytes": 582740
     },
     {
       "source": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
@@ -345,9 +348,10 @@
       "kinds": [
         "series"
       ],
-      "count": 523,
-      "status": "unchanged",
-      "revision": 22
+      "count": 526,
+      "status": "delta",
+      "revision": 23,
+      "compressedBytes": 125303
     },
     {
       "source": "https://ww4.3ick.club/w-mvs/",
