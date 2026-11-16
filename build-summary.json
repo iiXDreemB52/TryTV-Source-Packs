@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2766,
-  "canonicalCommit": "53bd940a366352a8e68cc0b0d8aa3659da4bc450",
-  "generatedAt": "2026-11-16T03:09:19.513Z",
+  "canonicalRevision": 2767,
+  "canonicalCommit": "6faa921d35afa6829ccbb904426722c06db599f7",
+  "generatedAt": "2026-11-16T03:43:35.528Z",
   "publishedSources": 35,
   "changed": 1,
   "excluded": 0,
@@ -15,8 +15,8 @@
       ],
       "count": 2399,
       "status": "delta",
-      "revision": 54,
-      "compressedBytes": 825233
+      "revision": 55,
+      "compressedBytes": 825231
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
