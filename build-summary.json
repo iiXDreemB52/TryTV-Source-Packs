@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "canonicalRevision": 2768,
-  "canonicalCommit": "bd6aa780033405aaf1c44f64139a66d78f1782ad",
-  "generatedAt": "2026-11-16T04:11:20.062Z",
+  "canonicalRevision": 2769,
+  "canonicalCommit": "ac7567eca0806b58638f58d0f3a81c6a3b317fa0",
+  "generatedAt": "2026-11-16T13:52:40.452Z",
   "publishedSources": 35,
   "changed": 2,
   "excluded": 0,
@@ -15,8 +15,8 @@
       ],
       "count": 2399,
       "status": "delta",
-      "revision": 56,
-      "compressedBytes": 825227
+      "revision": 57,
+      "compressedBytes": 825353
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -197,9 +197,8 @@
         "manhwa"
       ],
       "count": 417,
-      "status": "delta",
-      "revision": 38,
-      "compressedBytes": 185817
+      "status": "unchanged",
+      "revision": 38
     },
     {
       "source": "https://laroza.garden/",
@@ -325,8 +324,9 @@
         "series"
       ],
       "count": 925,
-      "status": "unchanged",
-      "revision": 13
+      "status": "delta",
+      "revision": 14,
+      "compressedBytes": 362792
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
