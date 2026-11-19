@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "canonicalRevision": 2769,
-  "canonicalCommit": "ac7567eca0806b58638f58d0f3a81c6a3b317fa0",
-  "generatedAt": "2026-11-16T13:52:40.452Z",
+  "canonicalCommit": "aa4f088b5fb6ea104770174b6b1496a27e971019",
+  "generatedAt": "2026-11-19T05:13:37.645Z",
   "publishedSources": 35,
-  "changed": 2,
+  "changed": 0,
   "excluded": 0,
   "entries": [
     {
@@ -14,9 +14,8 @@
         "anime"
       ],
       "count": 2399,
-      "status": "delta",
-      "revision": 57,
-      "compressedBytes": 825353
+      "status": "unchanged",
+      "revision": 57
     },
     {
       "source": "https://animezid.org/category.php?cat=cartoon",
@@ -324,9 +323,8 @@
         "series"
       ],
       "count": 925,
-      "status": "delta",
-      "revision": 14,
-      "compressedBytes": 362792
+      "status": "unchanged",
+      "revision": 14
     },
     {
       "source": "https://web5.topcinema.fan/movies/",
